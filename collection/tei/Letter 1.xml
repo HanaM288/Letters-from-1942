@@ -9,7 +9,8 @@
             <title>A Digital Compilation of Letters from 1942</title>
             <!-- do we have one header for all letters or one for each doc? -->
             <author corresp="#JM">James Mills</author>
-            <author corresp="#DB">Doreen Brown</author>
+            <author corresp="#DB">Doreen Brown <addName type="marriedName">Doreen Mills</addName>
+            </author>
             <principal>Hannah Mills</principal>
             <!-- what else do we want to include in title stmt? e.g. respstmt? -->
          </titleStmt>
@@ -33,6 +34,11 @@
             <handNote xml:id="WD" medium="blue-ink">Original text in blue ink, written by Wout
                Dillen.</handNote>
          </handNotes>
+         <correspDesc>
+            <correspAction>
+               <persName><!-- complete info here - check TEI guideslines for correspDesc --></persName>
+            </correspAction>
+         </correspDesc>
       </profileDesc>
    </teiHeader>
    <facsimile>
@@ -46,77 +52,107 @@
       </surface>
    </facsimile>
    <text>
-
+      
       <body>
-         <div n="1" type="letter">
+         <div n="1" type="letter" hand="#JM">
             <pb facs="#postit01"/>
+            <!-- insert page location here -->
             <!-- insert correct image here -->
             <head>Letter 1 - Saturday Evening</head>
-            <p rend="top left">METHODIST GUILD <lb/>
-               <hi rend="u">HOLIDAYS</hi>.</p>
-            <lb/>
-            <p>TELEPHONE DUNOON 234.</p>
-            <!-- check how to correctly mark up the letter header metamark?-->
-            <div>
-               <opener>
-                  <time rend="right">Saturday <hi rend="u">Evening</hi>.</time>
-                  <salute rend="left">My Dear Doreen,</salute>
-               </opener>
-            </div>
-            <div>
-               <p>Dhalling Mhor doesn’t seem like Dhalling <lb/> Mhor now you are not here. You had
-                  become so <lb/> much a part of the life here, so far as I was <lb/> concerned,
-                  that things seem a bit dead now<lb/> you have gone.</p>
-               <p>By this time you will be at home<lb/> or very near home (time six o’clock) and
-                  looking mournfully at the weather; it’s bound to be raining<lb/> in Manchester as
-                  it is here still. You have been<lb/> much in my thoughts as you made the
-                  beastly<lb/> railway journey and I kept saying to myself, “They<lb/> will have
-                  reached Glasgow now; they will be on the<lb/> M/C train now.”</p>
-               <p> I can’t say how much I’ve missed<lb/> you today. I’ve wondered round a bit on my own,<lb/>
-                  <!-- look up page break -->and played cards a bit with the older generation,<lb/>
-                  and slept a bit. Harry and Ellie, Jack and<lb/> Jean wanted me to go to the
-                  pictures with<lb/> them but as they were going to see Gert and<lb/>
-                  Daisy<!-- look up how to mark film name --> I declined the invitation.</p>
-               <p>I’ve moved my belongings into room 13<lb/> and find it’s a delightful room with a
-                  nice<lb/> thick carpet which is much better than the<lb/> thin, loose mats to
-                  which you and I have<lb/> been used to hitherto. No doubt John<lb/> and I will do
-                  much talking about Ruby<lb/> and ______ (well don’t be surprised if you ears<lb/>
-                  burn a bit, too).</p>
-               <p>There was a letter here for Poppy.<lb/> Mr. Henderson and I were re-addressing
-                  them and it’s<lb/> been sent on to your house; your address was<lb/> the one given
-                  in the visitors book; remember?<lb/> You will be able to pass it on to Poppy.<lb/>
-                  You might note <!-- look up note for squiggle --> that the stamp is placed<lb/><!-- insert page break -->
-                  <!-- insert header -->
-                  <!-- insert metamark for page number --> crookedly and no doubt will bring a blush
-                  to<lb/> her cheek - that is, if it’s from the right<lb/> person.</p>
-               <p>The new guests have been rolling up<lb/> looking
-                  <!-- insert rend crossed out -->bedg bedraggled, weary, worn and wet; but<lb/> I
-                  haven’t got to know any of them yet,<lb/> and there are more coming I know.<lb/>
-               </p>
-               <p>Let me know, Doreen, how you got<lb/> along today. You know, surely, that I
-                  shall<lb/> always be glad to hear from you and don’t<lb/> forget the tea. I looked
-                  in my diary and<lb/> found that Sept. 7th. is the date of the Harvest<lb/>
-                  Festival Lecture at the mission so please <!-- look up misspelling -->stear<lb/>
-                  clear of that date, won’t you? I shall<lb/> count the days to Sept. with keen
-                  anticipation.<lb/> Don’t do too much work next week if you<lb/> don’t feel like
-                  it; I’ll give you permission to<lb/>
-                  <!-- insert page break --> slack but don’t let the boss see you. Think<lb/> of me
-                  on the hills (that’s where I shan’t<lb/> be if it keeps raining).<lb/>
-               </p>
-               <p>I ought to have said this morning,<lb/> ‘Thanks for helping to make my week’s
-                  stay<lb/> at Dhalling Mhor such a happy one.’ This<lb/> second week will not be as
-                  happy as the<lb/> first, I know. Do accept my thanks,<lb/> now. I feel so glad
-                  that the week<lb/> afforded to us the opportunity of each other’s<lb/> company
-                  &amp; I hope we shall continue the<lb/> friendship.<lb/>
-               </p>
-               <div>
-                  <closer>
-                     <salute>Every good wish to you, Doreen.<lb/> Your very sincere friend,</salute>
-                     <signed>
-                        <hi rend="u"/>Jim.</signed>
-                  </closer>
-               </div>
-            </div>
+            
+            <fw>
+               <orgName rend="topLeft" type="preprintedText" rendition="capitalLetters">>METHODIST
+                  GUILD <lb/>
+                  <hi rend="u">HOLIDAYS</hi>.</orgName>
+               <lb/>
+               <num rend="topLeft" type="preprintedText">TELEPHONE DUNOON 234.</num>
+               <location rend="topRight" type="preprintedText" rendition="capitalLetters">
+                  <!-- check rend vs rendition -->
+                  <address>
+                     <placeName>DHALLING MHOR</placeName>
+                     <addrLine>KIRN,</addrLine>
+                     <addrLine>DUNOON,</addrLine>
+                     <addrLine>ARGYLL.</addrLine>
+                  </address>
+               </location>
+            </fw>
+            <opener>
+               <time rend="right" type="handWrittenText">Saturday <hi rend="u">Evening</hi>.</time>
+               <salute rend="left">My Dear Doreen,</salute>
+            </opener>
+            
+            <p>Dhalling Mhor doesn’t seem like Dhalling <lb/> Mhor now you are not here. You had
+               become so <lb/> much a part of the life here, so far as I was <lb/> concerned, that
+               things seem a bit dead now<lb/> you have gone.</p>
+            <p>By this time you will be at home<lb/> or very near home (time six o’clock) and
+               looking mournfully at the weather; it’s bound to be raining<lb/> in Manchester as it
+               is here still. You have been<lb/> much in my thoughts as you made the beastly<lb/>
+               railway journey and I kept saying to myself, “They<lb/> will have reached Glasgow
+               now; they will be on the<lb/> M/C train now.”</p>
+            <p> I can’t say how much I’ve missed<lb/> you today. I’ve wondered round a bit on my own,<lb/>
+               <pb facs="xxx"/><!-- enter correct page here --> and played cards a bit with the
+               older generation,<lb/> and slept a bit. Harry and Ellie, Jack and<lb/> Jean wanted me
+               to go to the pictures with<lb/> them but as they were going to see <name><title
+                  type="film">Gert and<lb/> Daisy</title></name> I declined the invitation.</p>
+            <p>I’ve moved my belongings into room 13<lb/> and find it’s a delightful room with a
+               nice<lb/> thick carpet which is much better than the<lb/> thin, loose mats to which
+               you and I have<lb/> been used to hitherto. No doubt John<lb/> and I will do much
+               talking about Ruby<lb/> and ______ (well don’t be surprised if you ears<lb/> burn a
+               bit, too).</p>
+            <p>There was a letter here for Poppy.<lb/> Mr. Henderson and I were re-addressing them
+               and it’s<lb/> been sent on to your house; your address was<lb/> the one given in the
+               visitors book; remember?<lb/> You will be able to pass it on to Poppy.<lb/> You might
+               note <!-- look up note for squiggle --> that the stamp is placed<lb/><pb facs="xxx"/><!-- insert correct page here -->
+               <fw>
+                  <orgName rend="topLeft" type="preprintedText" rendition="capitalLetters"
+                     >>METHODIST GUILD <lb/>
+                     <hi rend="u">HOLIDAYS</hi>.</orgName>
+                  <lb/>
+                  <num rend="topLeft" type="preprintedText">TELEPHONE DUNOON 234.</num>
+                  <location rend="topRight" type="preprintedText" rendition="capitalLetters">
+                     <!-- check rend vs rendition -->
+                     <address>
+                        <placeName>DHALLING MHOR</placeName>
+                        <addrLine>KIRN,</addrLine>
+                        <addrLine>DUNOON,</addrLine>
+                        <addrLine>ARGYLL.</addrLine>
+                     </address>
+                  </location>
+               </fw>
+               <metamark function="pageNumber" place="topLeft"><hi rend="u">2.</hi></metamark>
+               crookedly and no doubt will bring a blush to<lb/> her cheek - that is, if it’s from
+               the right<lb/> person.</p>
+            <p>The new guests have been rolling up<lb/> looking <del type="strikeThrough">bedg</del>
+               bedraggled, weary, worn and wet; but<lb/> I haven’t got to know any of them yet,<lb/>
+               and there are more coming I know.<lb/>
+            </p>
+            <p>Let me know, Doreen, how you got<lb/> along today. You know, surely, that I
+               shall<lb/> always be glad to hear from you and don’t<lb/> forget the tea. I looked in
+               my diary and<lb/> found that Sept. 7th. is the date of the Harvest<lb/> Festival
+               Lecture at the mission so please <sic>stear</sic><lb/> clear of that date, won’t you?
+               I shall<lb/> count the days to Sept. with keen anticipation.<lb/> Don’t do too much
+               work next week if you<lb/> don’t feel like it; I’ll give you permission to<lb/>
+               <pb facs="xxx"/>
+               <!-- insert correct page here --> slack but don’t let the boss see you. Think<lb/> of
+               me on the hills (that’s where I shan’t<lb/> be if it keeps raining).<lb/>
+            </p>
+            <p>I ought to have said this morning,<lb/> ‘Thanks for helping to make my week’s
+               stay<lb/> at Dhalling Mhor such a happy one.’ This<lb/> second week will not be as
+               happy as the<lb/> first, I know. Do accept my thanks,<lb/> now. I feel so glad that
+               the week<lb/> afforded to us the opportunity of each other’s<lb/> company &amp; I
+               hope we shall continue the<lb/> friendship.<lb/>
+            </p>
+            
+            <closer>
+               <salute>Every good wish to you, Doreen.<lb/> Your very sincere friend,</salute>
+               <signed>
+                  <hi rend="u"/>Jim.</signed>
+               <pb/>
+            </closer>
+         </div>
+         
+         <div n="2" type="letter">
+            
          </div>
       </body>
    </text>
