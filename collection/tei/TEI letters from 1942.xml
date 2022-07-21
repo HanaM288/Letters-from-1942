@@ -151,7 +151,73 @@
             </closer>
          </div>
          
-         <div n="2" type="letter">
+         <div type="envelope">
+            <pb facs="xxx"/><!-- insert correct image here -->
+            <metamark><hi rend="u"></hi>1</metamark>
+            <metamark place="topLeft">
+               <stamp>Manchester postal stamp</stamp>
+            </metamark>
+            <metamark place="topRight">
+               <stamp>two postage stamps</stamp>
+            </metamark>
+          
+            <p>
+               <address>
+                  <addrLine>Rev. James Mills,</addrLine>
+                  <addrLine rend="capitalLetters">"DHALLING MHOR",</addrLine>
+                  <addrLine>Kirn,</addrLine>
+                  <addrLine>nr. Dunoon,</addrLine>
+                  <addrLine>Argyllshire,</addrLine>
+                  <addrLine rend="capitalLetters">SCOTLAND</addrLine>
+               </address>
+            </p>
+            <pb/><!-- insert back of envelope here -->
+            <p>XXXXXXXXXXXXXXX<lb/>XXXXXXXXXXX<lb/>XXXXXXXXXXXXXXX</p>
+            <metamark place="centre" function="seal"><note>a red wax seal</note></metamark> <!-- do we want this information here or all in physDesc in header or both? -->
+         </div>
+         
+         <div type="letter" n="2" hand="#DB">
+            <opener>
+               <address rend="topRight"> <!-- is it ok to use rend for location on page? -->
+                  <addrLine>"Edale",</addrLine>
+                  <addrLine>2, Cranbourne Road,</addrLine>
+                  <addrLine>Chortlton-cum-Hardy,</addrLine>
+                  <addrLine>Manchester, 21,</addrLine>
+                 </address>
+               <dateline><hi rend="u">Tuesday.</hi></dateline>
+               <salute>My dear Jim,</salute>
+            </opener>
+            <p>
+               
+               Thank you ever so much for the nice letter which you sent me. It was good of you to write so soon. I, too, must say that it has been the most delightful holiday I have ever spent, and would express my sincere thanks for the very happy times which we had together. 
+               
+               I have been into the office, and have now got settled down somewhat, but all the same, I can’t help wishing I was back at Dhalling Mhor! 
+               
+               We were late arriving in Manchester on Saturday. We got in about 7.0. instead of 5.0. You were quite right in supposing that it would be raining. It certainly was, and I do not think it has stopped since. 
+               
+               I received Poppy’s letter here, and have forwarded it on to her, thank you. 
+               
+               I am sending you a photograph ,which was recently taken, if you care to have it, as I think it is a bit better than the one we had taken at Dunoon?
+               
+               Enclosed you will find my  £ 3., as I cannot spend them here without losing on them ( I have cultivated the Scotch habit, haven’t I?)
+               
+               Perhaps we could have the 21st “do”on the 12th September, if this will be convenient to you. However, let me know, and then we can fix it. 
+               
+               If ever you are in Manchester before then, do not hesitate to go into the Central Hall and see Dad, as I am sure he will be pleased to meet you. 
+               
+               I have been looking at the photograph of Swanwick - 1939- and notice both you and Dad on it, so, no doubt, you will recognise him when you see him. 
+               
+               Well Jim! I do hope you have a really good holiday, and that you will feel much better for it when you come back. 
+               
+               I trust the weather will improve. Please give my kind regards to Jack and Jean, Harry &amp; Ellie, and, of course, John. Do not stay awake talking all night, will you? Dad was enquiring about Ruby, and they said she will have to see a specialist, as it will probably need an operation. 
+               
+               All the very best, and hoping to see you soon. 
+               Yours very sincerely, 
+               Doreen 
+               
+               
+            </p>
+            
             
          </div>
       </body>
