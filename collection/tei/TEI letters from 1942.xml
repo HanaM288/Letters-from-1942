@@ -177,6 +177,7 @@
          </div>
          
          <div type="letter" n="2" hand="#DB">
+            <head>Letter 2 - Tuesday</head>
             <opener>
                <address rend="topRight"> <!-- is it ok to use rend for location on page? -->
                   <addrLine>"Edale",</addrLine>
@@ -189,36 +190,202 @@
             </opener>
             <p>
                
-               Thank you ever so much for the nice letter which you sent me. It was good of you to write so soon. I, too, must say that it has been the most delightful holiday I have ever spent, and would express my sincere thanks for the very happy times which we had together. 
+               Thank you ever so much for the<lb/> nice letter which you sent me. It<lb/> was good of you to write so soon.<lb/> I, too, must say that it has been<lb/> the most delightful holiday I have<lb/> ever spent, and would express<lb/> my sincere thanks for the very<lb/> happy times which we had<lb/> together.<lb/> </p>
                
-               I have been into the office, and have now got settled down somewhat, but all the same, I can’t help wishing I was back at Dhalling Mhor! 
+             <p>  I have been into the office,<lb/> and have now got settled down<lb/> somewhat, but all the same,<lb/> I can’t help wishing I was<lb/> back at Dhalling Mhor!<lb/> </p> <pb facs="xxx"/> <!-- insert page picture -->
                
-               We were late arriving in Manchester on Saturday. We got in about 7.0. instead of 5.0. You were quite right in supposing that it would be raining. It certainly was, and I do not think it has stopped since. 
+             <metamark place="top" function="pageNumber">2.</metamark> <p> We were late arriving in Manchester<lb/> on Saturday. We got in about 7.0.<lb/> instead of 5.0. You were quite<lb/> right in supposing that it would<lb/> be raining. It certainly was, and<lb/> I do not think it has stopped<lb/>
+                 since.<lb/> </p> 
                
-               I received Poppy’s letter here, and have forwarded it on to her, thank you. 
+              <p> I received Poppy’s letter here,<lb/> and have forwarded it on to<lb/> her, thank you.<lb/></p> 
                
-               I am sending you a photograph ,which was recently taken, if you care to have it, as I think it is a bit better than the one we had taken at Dunoon?
+              <p> I am sending you a photograph,<lb/> which was recently taken, if you<lb/> care to have it, as I think it is<lb/> a bit better than the one we<lb/> had taken at Dunoon?<lb/> </p>
                
-               Enclosed you will find my  £ 3., as I cannot spend them here without losing on them ( I have cultivated the Scotch habit, haven’t I?)
+               <p>Enclosed you will find my  £ 3.,<lb/> as I cannot spend them here<lb/> without losing on them (I have<lb/> cultivated the Scotch habit, haven’t I?)<lb/> </p> <pb facs="xxx"/> <!-- insert page image -->
                
-               Perhaps we could have the 21st “do”on the 12th September, if this will be convenient to you. However, let me know, and then we can fix it. 
+             <metamark place="top" function="pageNumber">3.</metamark> <p> Perhaps we could have the<lb/> 21st “do”on the 12th September, if<lb/> this will be convenient to you.<lb/> However, let me know, and then<lb/> we can fix it.<lb/></p> 
                
-               If ever you are in Manchester before then, do not hesitate to go into the Central Hall and see Dad, as I am sure he will be pleased to meet you. 
+              <p> If ever you are in Manchester<lb/> before then, do not hesitate to go<lb/> into the Central Hall and see<lb/> Dad, as I am sure he will<lb/> be pleased to meet you.<lb/></p> 
                
-               I have been looking at the photograph of Swanwick - 1939- and notice both you and Dad on it, so, no doubt, you will recognise him when you see him. 
+              <p> I have been looking at the<lb/> photograph of Swanwick - 1939 -<lb/> and notice both you and Dad<lb/> on it, so, no doubt, you<lb/> will recognise him when<lb/> you see him.<lb/></p> <pb facs="xxx"/><!-- insert page image -->
                
-               Well Jim! I do hope you have a really good holiday, and that you will feel much better for it when you come back. 
+             <metamark place="top" function="pageNumber">4.</metamark> <p> Well Jim! I do hope you<lb/> have a really good holiday, and<lb/> that you will feel much better<lb/> for it when you come back.<lb/></p> 
                
-               I trust the weather will improve. Please give my kind regards to Jack and Jean, Harry &amp; Ellie, and, of course, John. Do not stay awake talking all night, will you? Dad was enquiring about Ruby, and they said she will have to see a specialist, as it will probably need an operation. 
+              <p> I trust the weather will improve.<lb/> Please give my kind regards<lb/> to Jack and Jean, Harry &amp; Ellie,<lb/> and, of course, John. Do not stay<lb/> awake talking all night, will you?<lb/></p> <p>Dad was enquiring about Ruby,<lb/> and they said she will have<lb/> to see a specialist, as it will<lb/> probably mean an operation.<lb/></p> 
                
-               All the very best, and hoping to see you soon. 
-               Yours very sincerely, 
-               Doreen 
+               <closer><salute>All the very best, and<lb/> hoping to see you soon.<lb/> 
+               Yours very sincerely,<lb/></salute> 
+               <signed><hi rend="u"/>Doreen</signed><pb/> </closer>
                
+           
+            
+            
+         </div>
+         
+         
+         <div type="letter" n="3" hand="#JM">
+            <pb facs="#postit01"/>
+            <!-- insert page location here -->
+            <!-- insert correct image here -->
+            <head>Letter 3 - August 13th</head>
+            
+            <fw>
+               <orgName rend="topLeft" type="preprintedText" rendition="capitalLetters">>METHODIST
+                  GUILD <lb/>
+                  <hi rend="u">HOLIDAYS</hi>.</orgName>
+               <lb/>
+               <num rend="topLeft" type="preprintedText">TELEPHONE DUNOON 234.</num>
+               <location rend="topRight" type="preprintedText" rendition="capitalLetters">
+                  <!-- check rend vs rendition -->
+                  <address>
+                     <placeName>DHALLING MHOR</placeName>
+                     <addrLine>KIRN,</addrLine>
+                     <addrLine>DUNOON,</addrLine>
+                     <addrLine>ARGYLL.</addrLine>
+                  </address>
+               </location>
+            </fw>
+        <opener> 
+           <dateline rend="topRight">August <hi rend="u">13th 1942</hi></dateline>
+         
+         <salute>My Dear Doreen,</salute>
+        </opener>
+         
+         <p>
+            Received your letter today and was<lb/> very pleased indeed to get it. Thanks for<lb/> the photograph, it’s really lovely and I do<lb/> appreciate it very much. When I get back<lb/> to Stockport it will have an honoured place<lb/> in my study where I shall see it often<lb/> to remind me of you and of our friendship. <lb/></p>
+            
+           <p>I have changed the 3 Scotch<lb/> notes for English ones; herewith enclosed. You<lb/> don’t say that I should return them but<lb/> I am presuming I should. <lb/></p>
+            
+            <p>This week has been much<lb/> different from last in many ways. First and<lb/><pb facs="xxx"/> <!-- insert page image here --> foremost - you are not here; then the weather <lb/>has been awfully bad until today; these<lb/> things have tended to make me a bit fed<lb/> up. We have not been able to get out<lb/> much and you will realise that being in<lb/> here day after day aimlessly whiling away<lb/> the time is not a good thing. I have<lb/> slept much and played cards a bit and<lb/> in between the showers and, on occasion, in<lb/> the showers have walked out with Harry or<lb/> Ellie or <!-- insert tage for unclear word for rather -->rather Davies and Nora who has<lb/> linked herself to him.<lb/></p>
                
+               <p>On Monday we did Rothesay again.<lb/> The sail was most exhilarating. The Clyde<lb/> was ‘choppy’ and the boat tossed quite a<lb/> bit and took showers over the bow. There<lb/> were some heavy showers of rain, too, but<lb/><pb facs="xxx"/><!-- insert page image here --> 
+                  <fw>
+                     <orgName rend="topLeft" type="preprintedText" rendition="capitalLetters"
+                        >>METHODIST GUILD <lb/>
+                        <hi rend="u">HOLIDAYS</hi>.</orgName>
+                     <lb/>
+                     <num rend="topLeft" type="preprintedText">TELEPHONE DUNOON 234.</num>
+                     <location rend="topRight" type="preprintedText" rendition="capitalLetters">
+                        <!-- check rend vs rendition -->
+                        <address>
+                           <placeName>DHALLING MHOR</placeName>
+                           <addrLine>KIRN,</addrLine>
+                           <addrLine>DUNOON,</addrLine>
+                           <addrLine>ARGYLL.</addrLine>
+                        </address>
+                     </location>
+                  </fw>
+                  <metamark function="pageNumber" place="topLeft"><hi rend="u">2.</hi></metamark>
+                 
+                 
+                 we didn’t get very wet. After lunch we climbed<lb/> Barone hill, where I gathered the heather I<lb/> sent you - which incidentally I hope you<lb/> received unsquashed and smelling of the hills -<lb/> and where we saw something of the rugged<lb/> nature of the hills lying behind Rothesay. We<lb/> saw Arran rising from the mists as the<lb/> strong winds sent them swirling round the hills.<lb/> The demoralising walk back from Innellan I <lb/>did by myself and wearily climbed Clyde Street<lb/> after a buffeting day.<lb/></p>
+                  
+                  <p>On Tuesday, in the rain, a few of<lb/> us went to Killcraigon and walked about<lb/> five or six miles to Loch Long. The concert <lb/>in the evening was not bad but was not<lb/> so good as last week’s. Wednesday was<lb/><pb facs="xxxx"/><!-- insert page image --> rather a miserable day. We had showers<lb/> throughout the day and after playing bowls in<lb/> the tournament I had an hour and a<lb/> half lying on my bed. In the evening<lb/> nearly everybody went to the Cosy Corner so<lb/> four of us - Mrs. Henderson, Mrs. Rawlinson and<lb/> Joan and I played <!-- tag for a game name -->“Kan - U - Go”; a card<lb/> game but not an exciting one, I’m afraid.<lb/></p>
+                  
+                  <p>Today, Thursday, has been much better.<lb/> The sun has shone gloriously and we have<lb/> had a fine excursion to Loch Eck and<lb/> Ardentinny. We walked along the side of<lb/> the Loch to Whistlefield where we had lunch<lb/> and then over the hills to Ardentinny. The<lb/> scenery beggars description; it is absolutely<lb/> exquisite - the strong, silent hills contrasted<lb/> beautifully with the wooded, flowery valleys;<lb/> and from time to time one caught a glimpse<lb/><pb facs="xxx"/> <!-- insert page image here- scan 14 -->
+                   
+                     <fw>
+                        <orgName rend="topLeft" type="preprintedText" rendition="capitalLetters"
+                           >>METHODIST GUILD <lb/>
+                           <hi rend="u">HOLIDAYS</hi>.</orgName>
+                        <lb/>
+                        <num rend="topLeft" type="preprintedText">TELEPHONE DUNOON 234.</num>
+                        <location rend="topRight" type="preprintedText" rendition="capitalLetters">
+                           <!-- check rend vs rendition -->
+                           <address>
+                              <placeName>DHALLING MHOR</placeName>
+                              <addrLine>KIRN,</addrLine>
+                              <addrLine>DUNOON,</addrLine>
+                              <addrLine>ARGYLL.</addrLine>
+                           </address>
+                        </location>
+                     </fw>
+                     <metamark function="pageNumber" place="topLeft"><hi rend="u">3.</hi></metamark>
+                   
+                     of the water through the trees. We are to<lb/> have a sing-song tonight.<lb/></p>
+                     
+                     <p>After all that talking about myself I’ll<lb/> go back to your letter - it was good to get<lb/> it - and take up the points you make.<lb/> I certainly will ‘drop’ into the Central Hall<lb/> and see you Dad whenever I’m in Manchester.<lb/> After your mentioning the photograph taken at<lb/> Swanwick - 1939 - I remembered the details of its<lb/> being taken although I had forgotten about<lb/> it and it’s very likely that I should<lb/> recognise your Dad. I must have a look<lb/> at it when I come to the ‘do’ next month.<lb/> The 12th will be quite all right for me<lb/> and I shall look forward to seeing<lb/> you and your parents then. It would<lb/><pb facs="xxx"/><!-- insert page image - scan 15 --> be jolly nice to see you before then and<lb/> if you have a Saturday afternoon free in<lb/> a fortnight’s time maybe you’ll let me<lb/> know and we could fix a re-union in<lb/> the City somewhere.<lb/></p>
+                        
+                        <p>I have passed on your good<lb/> wishes to the people you mentioned. This week<lb/> will soon be over and the holiday ended,<lb/> but it will have served it’s purpose and<lb/> I shall not be sorry to be back at<lb/> my work; it’s the greatest a man could<lb/> do and I love it. Have you my<lb/> Stockport address? It’s -<!-- address tag? --> 22 Maitland St.<lb/> Hempshaw Lane, Stockport. Do let me<lb/> have a letter soon, Doreen.<lb/></p>
+                        
+                        <closer><salute>All good wishes,<lb/>
+                           
+                           Yours very sincerely, </salute>
+                           <signed><persName><hi rend="u"/>Jim.</persName></signed> <!-- I added persName here but unsure of we should include it/ research benifit of element -->
+                        </closer>
+                     </div>
+         
+         <div type="envelope">
+            <pb facs="xxx"/><!-- insert correct image here -->
+            <metamark place="topleft"><hi rend="u"></hi>2.</metamark>
+            <metamark place="topRight">
+               <stamp>Chorlton.C.Hardy postal stamp</stamp>
+            </metamark>
+            <metamark place="topRight">
+               <stamp> postage stamp</stamp>
+            </metamark>
+            
+            <p>
+               <address>
+                  <addrLine>Rev. James Mills,</addrLine>
+                  <addrLine>22, Maitland Street,</addrLine>
+                  <addrLine>Hempshaw Lane,</addrLine>
+                  <addrLine rend="capitalLetters">STOCKPORT,</addrLine>
+                  <addrLine>Ches.</addrLine>
+                  
+               </address>
             </p>
+            <pb facs="xxxx"/><!-- insert back of envelope here -->
+            <p>XXXXXXXXXXXXXXX<lb/>XXXXXXXXXXX<lb/>XXXXXXXXXXXXXXX</p>
+           
+         </div>
+         
+         
+         <div type="letter" n="4" hand="#DB">
+            <pb facs="xxx"/><!-- inset page image here - scan 19 -->
+            <head>Letter 4 - August 17th</head>
+            <opener>
+               <address rend="topRight"> <!-- is it ok to use rend for location on page? -->
+                  <addrLine>"Edale",</addrLine>
+                  <addrLine>2, Cranbourne Road,</addrLine>
+                  <addrLine>Chortlton-cum-Hardy,</addrLine>
+                  <addrLine>Manchester, 21.</addrLine>
+               </address>
+               <dateline><hi rend="u">17/8/42.</hi></dateline>
+               <salute rend="topLeft">My dear Jim,</salute>
+            </opener>
+         
+         
+                        
+                        <p>Very many thanks for your<lb/> letter, which I was pleased to<lb/> receive. I am simply delighted<lb/> to think that our friendship is<lb/> still going to continue, and<lb/> I hope we shall have very<lb/> many happy times together.<lb/></p> 
+            <p>It was good of you to spare<lb/> a few minutes to write to me<lb/> on Sunday, as I know how <lb/>busy you must have been,<lb/> and I do appreciate it Jim.<lb/>
+                           It is Morris’ last Sunday next<lb/> week.<lb/></p>
+            <pb facs="xxx"/><!-- insert page image - scan 20 -->
+                         <metamark place="topLeft" function="pageNumber">2.</metamark>  
+            <p>Our new minister, who is coming<lb/> in September, the one from<lb/><!-- place name tag? --> Headingley College, is named<lb/> “Rees”. Dad had a letter from<lb/>
+               him, and I understand he<lb/> lives in Cardiff.<lb/></p>
+                           
+                           <p>I think Margaret and I<lb/> are going to the Paramount to see<lb/> “How Green was my Valley”,<!-- title tag? --> as<lb/> it is supposed to be such a<lb/> good film.<lb/></p>
+                           
+                           <p>On Wednesday, I am going<lb/> with the Platt Lane League<lb/> to Hartley College, where some<lb/> of them are playing in a <lb/>tennis tournament. Needless<lb/> to say, I am not playing tennis.<lb/></p>
+            <pb facs="xxx"/> <!-- insert page image - scan 21 -->
+            <metamark place="topLeft" function="pageNumber">3.</metamark>
+                           
+                           <p>It would certainly have been<lb/> lovely if we could have had<lb/>
+                           our full fortnight’s holiday<lb/> together Jim, but still it<lb/> was grand to have had a<lb/> week, wasn’t it.<lb/></p>
+                           
+                           <p>I am so glad you like<lb/> Mother and Dad, as I am sure<lb/> they will always make you very<lb/> welcome. Mother suggested that<lb/> on Saturday, we may as well<lb/> come back hometo tea, as it<lb/> would be better than having<lb/> to get it out somewhere.<lb/></p>
+                           
+                           <p>Perhaps you would like me<lb/> to show you where Platt Church<lb/> is, as it would be a nice walk &amp;<lb/>
+                              <pb facs="xxx"/> <!-- insert page number - scan 22 --> a friend of mine - Daisy<lb/> Harding - from church, has<lb/> gone to Dhalling Mhor for this<lb/> week, so I suppose she will <lb/>have a great time if the<lb/> weather improves. She has<lb/> joined up in the <!-- name tag? -->NAAFI’S, and<lb/> is stationed in <!-- city name tag? -->Gloucester at<lb/> present.<lb/></p>
             
-            
+                           
+                           <p>I shall be looking forward<lb/> to seeing you again on Saturday,<lb/> at 3-oclock.<lb/></p>
+                        
+                        
+                        <closer>
+                           <salute>Kindest regards,<lb/> Yours very sincerely, </salute><lb/>
+                           <signed><persName><hi rend="u">Doreen.</hi></persName></signed> </closer> <!-- I added persName here but unsure of we should include it/ research benifit of element -->
          </div>
       </body>
    </text>
