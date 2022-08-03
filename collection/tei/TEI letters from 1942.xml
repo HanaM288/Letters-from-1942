@@ -687,6 +687,130 @@
             </closer>
 
          </div>
+
+         <div type="envelope">
+            <pb facs="xxx"/>
+            <!-- insert correct image here scan 30 -->
+            <metamark place="topleft">4</metamark>
+            <metamark place="topRight">
+               <stamp>postage stamp</stamp>
+            </metamark>
+            <metamark place="centre">
+               <stamp>Manchester postal stamp</stamp>
+            </metamark>
+
+            <p>
+               <address>
+                  <addrLine>Rev. James Mills,</addrLine>
+                  <addrLine>22, Maitland Street,</addrLine>
+                  <addrLine>Hempshaw Lane,</addrLine>
+                  <addrLine>Stockport,</addrLine>
+                  <addrLine><hi rend="u">Ches.</hi></addrLine>
+
+               </address>
+            </p>
+            <pb facs="xxxx"/>
+            <!-- insert back of envelope here - scan 31-->
+
+
+         </div>
+
+
+         <div type="letter" n="8" hand="#DB">
+            <pb facs="xxx"/>
+            <!-- inset page image here - scan 32 -->
+            <head>Letter 8 - August 31st</head>
+            <opener>
+               <address rend="topRight">
+                  <!-- is it ok to use rend for location on page? -->
+                  <addrLine>"Edale",</addrLine>
+                  <addrLine>2, Cranbourne Road,</addrLine>
+                  <addrLine>Chortlton.cum.Hardy,</addrLine>
+                  <addrLine>Manchester. 21.</addrLine>
+               </address>
+               <dateline rend="topRight">Thursday, 31st.</dateline>
+               <salute rend="topLeft">My dear Jim,</salute>
+            </opener>
+
+            <p> I really must write and thank you<lb/> very much for the wonderful times we<lb/>
+               have had together this weekend. I have<lb/> enjoyed every moment of it.<lb/></p>
+
+
+            <p>You will be glad to know that<lb/> I caught the eighty bus all right, and<lb/> got
+               home about 10-30.<lb/></p>
+
+            <p>Don’t bother to get your cape yet, as<lb/> Dad says you can have his coupons<lb/>
+               <pb facs="xxx"/>
+               <!-- insert page image here - scan 33 --> and I will try and see whether<lb/> Brown
+               Bros. have any.<lb/></p>
+
+            <p>I will call in for the book<lb/> to-morrow.<lb/></p>
+
+            <p> I am writing this in a hurry<lb/> before my breakfast, so I haven’t<lb/> very much
+               time.<lb/></p>
+
+            <closer><salute>All my Love, Jim.</salute>
+               <signed><hi rend="u">Doreen.</hi></signed></closer>
+
+         </div>
+
+         <div type="letter" n="9" hand="#JM">
+            <pb facs="xxx"/>
+            <!-- inset page image here - scan 34 -->
+            <head>Letter 9 - August 31st</head>
+            <opener>
+               <address rend="topRight">
+                  <!-- is it ok to use rend for location on page? -->
+                  <addrLine>22 Maitland Street,</addrLine>
+                  <addrLine>Hempshaw Lane,</addrLine>
+                  <addrLine>Stockport.</addrLine>
+
+               </address>
+               <dateline rend="topRight">August<hi rend="u">31'</hi>1942.</dateline>
+               <salute rend="topLeft">My Dear Doreen,</salute>
+            </opener>
+
+            <p> I trust that without any mishap you arrived home<lb/> safely last night. It was
+               lovely to have you see the mission<lb/> and hear me preach and I hope you were not
+               disappointed<lb/> in either.<lb/></p>
+
+            <p>Ever since I met you at Dhalling Mhor I have<lb/> had a high regard for you but
+               having more opportunities of meeting<lb/> you since Dhalling Mhor days my regard has
+               deepend into<lb/> much more. I want you to know, Doreen, that I love you<lb/> with
+               all my heart. You are the most beautiful, sweetest girl<lb/> I have ever met and if I
+               didn’t love you I should feel<lb/> that I was a creature without feeling. Every
+               moment of every<lb/> day I am thinking about you and when I am with you<lb/> that is
+               ecstasy par excellence. This is not being said<lb/> lightly; Doreen, it is deep and
+               sincere. That is why I am<lb/> expressing it to you first on paper. It is not
+               always<lb/> easy for one to say in words what one feels in one’s<lb/> heart and
+               although I intended saying this into your ear<lb/>
+               <pb facs="xxxx"/><!-- insert page image - scan 35 --> yet the right psychological
+               moment didn’t seem to present itself.<lb/> But I wanted you to know what I felt in my
+               heart<lb/> before we see each other again; I could not wait for next<lb/>
+               Saturday.<lb/></p>
+
+            <p>And now I shall await your next letter to find,<lb/> I hope, that this feeling of
+               love is reciprocal. What<lb/> things you and I, Doreen, can do together!
+               Everything<lb/> seems different to me. Do you know the hymn - Loved with<lb/>
+               everlasting love <!-- title tag? -->- 443? That hymn expresses what I feel.<lb/></p>
+
+
+            <p>I find I am living from week-end to week-end<lb/> eagerly anticipating each Saturday.
+               And I am so proud to<lb/> introduce you to my friends.<lb/></p>
+
+            <p> Mrs. Bithell, who saw you with Mrs. Bransly, is annoyed<lb/> because she wasn’t
+               introduced. I placated her this morning when<lb/> she poured out her grievance by
+               promising her that she would<lb/> meet you soon.<lb/></p>
+
+            <closer><salute>Every good wish, Doreen, and all my love,<lb/> Yours for ever,</salute>
+               <signed><hi rend="u">Jim.</hi></signed>
+            </closer>
+
+
+         </div>
+
+
+
       </body>
    </text>
 </TEI>
