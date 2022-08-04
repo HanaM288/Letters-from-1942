@@ -7,16 +7,27 @@
       <fileDesc>
          <titleStmt>
             <title>A Digital Compilation of Letters from 1942</title>
-            <!-- do we have one header for all letters or one for each doc? -->
             <author corresp="#JM">James Mills</author>
             <author corresp="#DB">Doreen Brown <addName type="marriedName">Doreen Mills</addName>
             </author>
-            <principal>Hannah Mills</principal>
-            <!-- what else do we want to include in title stmt? e.g. respstmt? -->
+            <respStmt>
+               <resp>compiler</resp>
+
+               <name>Hannah Mills</name>
+            </respStmt>
+            <respStmt>
+               <resp>compiler</resp>
+               <name>Jessica Pettit </name>
+            </respStmt>
          </titleStmt>
          <publicationStmt>
-            <publisher>University of Borås</publisher>
-            <!-- publisher still to be decided authority tag? distributor tags? -->
+            <authority>Hannah Mills</authority>
+            <address>
+               <addrLine/>
+            </address>
+            <availability>
+               <p/>
+            </availability>
             <date>March 2022</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
@@ -29,6 +40,9 @@
             <p>A post-it with a simple example phrase on it</p>
          </sourceDesc>
       </fileDesc>
+      <encodingDesc>
+         <p/>
+      </encodingDesc>
       <profileDesc>
          <handNotes>
             <handNote xml:id="WD" medium="blue-ink">Original text in blue ink, written by Wout
@@ -809,6 +823,179 @@
 
          </div>
 
+         <div type="envelope">
+            <pb facs="xxx"/>
+            <!-- insert correct image here - scan 36 -->
+            <metamark place="topleft"><hi rend="u">5</hi></metamark>
+            <metamark place="topRight">
+               <stamp>two postage stamps</stamp>
+            </metamark>
+            <metamark place="centre">
+               <stamp> Manchester postal stamp dated 2 Sep 1942</stamp>
+            </metamark>
+
+            <p>
+               <address>
+                  <addrLine>Rev. James Mills,</addrLine>
+                  <addrLine>22, Maitland Street,</addrLine>
+                  <addrLine>Hempshaw Lane,</addrLine>
+                  <addrLine>Stockport,</addrLine>
+                  <addrLine rend="u">Ches.</addrLine>
+
+               </address>
+            </p>
+            <pb facs="xxxx"/>
+            <!-- insert back of envelope here - scan 37  -->
+
+
+         </div>
+
+         <div type="letter" n="10" hand="#DB">
+            <pb facs="xxx"/>
+            <!-- inset page image here - scan 38 -->
+            <head>Letter 10 - September 1st</head>
+            <opener>
+               <address rend="topRight">
+                  <!-- is it ok to use rend for location on page? -->
+                  <addrLine>"Edale",</addrLine>
+                  <addrLine>2, Cranbourne Road,</addrLine>
+                  <addrLine>Chortlton.cum.Hardy,</addrLine>
+                  <addrLine>Manchester, 21.</addrLine>
+               </address>
+               <dateline rend="topRight"><hi rend="u">1st Sept., 1942.</hi></dateline>
+               <salute rend="topLeft">My dear Jim,</salute>
+            </opener>
+
+            <p>It was simply wonderful to<lb/> receive your letter this morning.<lb/> I am so happy
+               to think that we<lb/> have so much in common. I do<lb/> love you with all my heart
+               Jim,<lb/> and I am so delighted to know<lb/> that you feel the same towards me.<lb/>
+               I am always thinking about you,<lb/> and I am so proud to think<lb/> you are doing
+               such a great<lb/> work, which is the greatest<lb/> thing in life. <lb/></p>
+            <pb facs="xxx"/>
+            <!-- insert page image - scan 39 -->
+            <metamark function="pagenumber">2.</metamark>
+
+            <p>This weekend will for ever<lb/> live in my memory, dear.<lb/> I enjoyed evey minute
+               of it.<lb/> It was funny you should mention <lb/> hymn 443, as I was thinking<lb/>
+               about that on Sunday. I remember<lb/> once learning all the words<lb/> off by heart.
+               It is such a <lb/> beautiful hymn, and can express<lb/> one’s feelings far better
+               than<lb/> words could ever do. <lb/></p>
+
+            <p> I am sure we shall have such <lb/> wonderful times together, Jim. <lb/></p>
+
+            <p> It seems so strange that we<lb/> should live so near, and yet<lb/> have to meet so
+               far away as <lb/> Scotland, but I am sure there<lb/>
+               <pb facs="xxx"/><!-- insert page image - scan 40 -->
+               <metamark function="pagenumber">3.</metamark> must be some divine purpose<lb/> behind
+               it all. <lb/></p>
+
+            <p> Do let me know what size<lb/> gaiters you want. They have<lb/> them in 26” - 30”
+               <!-- measurement tag? -->length. <lb/></p>
+            <p> I called in to-day for your<lb/> book, but it hadn’t come in,<lb/> so I will go
+               again later in the week. <lb/></p>
+
+            <p>We had a grand swim<lb/> yesterday, although it was a<lb/> bit cold on first getting
+               in.<lb/></p>
+
+            <p>I am so much looking forward<lb/> to seeing you on Saturday.<lb/></p>
+
+            <p> By the way, if you have any<lb/> good ideas as to how we<lb/>
+               <pb facs="xxx"/><!-- insert page image - scan 41 -->
+               <metamark function="pagenumber">4. </metamark> can entertain our guests the<lb/>
+               following Saturday please let<lb/> me know, as I am trying to<lb/> plan my
+               programme.<lb/></p>
+
+            <p> I do love you more than<lb/> anything else Jim; do believe<lb/> this, from the
+               bottom<lb/> of my heart. <lb/></p>
+
+            <closer>
+               <salute>all my good wishes,<lb/> Yours for always,<lb/>
+               </salute>
+               <signed>Doreen.</signed>
+            </closer>
+
+         </div>
+
+         <div type="letter" n="11" hand="#JM">
+            <pb facs="xxx"/>
+            <!-- inset page image here - scan 42 -->
+            <head>Letter 11 - September 2nd</head>
+            <opener>
+               <address rend="topRight">
+                  <!-- is it ok to use rend for location on page? -->
+                  <addrLine>22 Maitland Street,</addrLine>
+                  <addrLine>Hempshaw Lane,</addrLine>
+                  <addrLine>Stockport.</addrLine>
+
+               </address>
+               <dateline rend="topRight">Sept.<hi rend="u">2'</hi>1942.</dateline>
+               <salute rend="topLeft">My Dearest Doreen,</salute>
+            </opener>
+
+            <p> You remember my telling you about receiving official notification<lb/> about being
+               accepted for the ministry and my reaction to it - my<lb/> joy - my effervescence -
+               well, that was nothing compared to the way<lb/> in which I reacted to the reading of
+               your letter. It’s<lb/> absolutely great, Doreen. No words can explain the ecstasy
+               or<lb/> the delight I feel in my heart. I love you and you love me -<lb/> two folks
+               feeling alike and having in common our love for<lb/> our Lord Jesus Christ. All love
+               comes from God; it’s Divine and<lb/> I can hardly wait for Saturday because then,
+               when we’re together,<lb/> our love can be communicated in a way that pen and ink
+               can<lb/> never communicate it. You are the grandest, finest, sweetest<lb/> girl in
+               the world, Doreen; and I can hardly believe my good<lb/> fortune to be true. But it
+               is, and as you say there must<lb/> be some Divine purpose behind it all.<lb/></p>
+
+            <p>Just before going to Dhalling Mhor my work was<lb/> getting on top of me; I had
+               worked hard and I was tired; but<lb/> I was rather unhappy, too. I can’t explain it
+               properly but<lb/>
+               <pb facs="xxx"/><!-- insert page image - scan 43 --> it seemed as though I were
+               struggling alone. People so often<lb/> didn’t understand; they let me down badly on
+               occasion. All<lb/> that is altered now. I shall always think Dhalling Mhor<lb/> a
+               blessed spot and I shall always remember the first<lb/> Sunday morning at breakfast
+               when I asked (goodness knows<lb/> why!) if there were any folks at the table from
+               Machester.<lb/> Remember? <lb/></p>
+
+            <p> I am so glad you enjoyed your swim. Thanks for<lb/> calling for the book<del
+                  rend="strikethrough">s</del>. And thanks awfully for bothering about<lb/> the cape
+               and leggings. It’s so good of your Dad to let<lb/> me have his coupons (your mother
+               and father have been wonderfully<lb/> kind to me). I’ve tried to measure my leg- not
+               very<lb/> successfully, I’m afraid - and I think I had better have<lb/> the 30”.
+               <lb/></p>
+
+            <p> One thing that I think might go down well at<lb/> your party, Doreen, is a little
+               play for two people supposed<lb/> to be broadcasting. It’s done in the dark and the
+               two<lb/> folks read from behind a screen or curtain. I’ve done it once<lb/> and we
+               found it very good. I’ll get hold of the<lb/> book for Saturday and then you can see
+               it. I might<lb/> sing - then again, I might not - “If you want a bit o’Lancashire<lb/>
+               <pb facs="xxx"/><!-- insert page image - scan 44 --> we know where it is”. Joking
+               aside; I’ll ransack my<lb/> brains and try and dig up some other ideas. What about
+               a<lb/> beetle drive? I’ll bring my papers and dice if you decide on<lb/> it. Beetle
+               always makes good entertainment. <lb/></p>
+
+            <p> I have had a letter from Mr. Bransly today in which<lb/> he says among other things,
+               “I also heard from Home that you are<lb/> going there for tea tonight. Well I shall
+               be thinking of you<lb/> and wishing I were with you. I hope you all have a jolly
+               good<lb/> tea, and I suppose you will excell yourself tonight at
+               preaching”.<lb/><!-- quotation tag? --> Everything is all right for a week next
+               Sunday, I hope, Doreen.<lb/> We’ll have a good day then but a better the day<lb/>
+               before.<lb/></p>
+
+            <p>This afternoon I have had a funeral and my<lb/> Ladies’ class at Offerton and tonight
+               I am attending an interviewing<lb/> committee in connection with the Youth Movement.
+               This beginning<lb/> of the Connexional year is always a busy time but I love it.<lb/>
+               I revel in circuit meetings; in talking to folks from different<lb/> Churches; in
+               having fellowship with the ministers of the staff; and<lb/> I know you love it, too.
+               On Friday we have a staff<lb/> meeting at five; tea at six; and a stewards’
+               meeting<lb/> after tea. The circuit stewards are always welcomed into the<lb/>
+               <pb facs="xxx"/><!-- insert page image - scan 45 --> staff meeting for a moment when
+               they hand out little<lb/> envelopes containing quarterly cheques. Methodism is
+               wonderful<lb/> and I am very proud to be able to serve her as a<lb/> minister. There
+               can be nothing higher in life. <lb/></p>
+
+            <closer>
+               <salute>Every little bit of me says, “I love you”. <lb/> God bless you, Doreen,<lb/>
+               </salute>
+               <signed> Jim. </signed> XX</closer>
+         </div>
 
 
       </body>
