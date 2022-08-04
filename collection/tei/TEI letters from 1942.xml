@@ -133,7 +133,7 @@
                      </address>
                   </location>
                </fw>
-               <metamark function="pageNumber" place="topLeft"><hi rend="u">2.</hi></metamark>
+               <metamark function="pagenumber" place="top-left"><hi rend="u">2.</hi></metamark>
                crookedly and no doubt will bring a blush to<lb/> her cheek - that is, if it’s from
                the right<lb/> person.</p>
             <p>The new guests have been rolling up<lb/> looking <del type="strikeThrough">bedg</del>
@@ -168,11 +168,11 @@
          <div type="envelope">
             <pb facs="xxx"/>
             <!-- insert correct image here -->
-            <metamark><hi rend="u"/>1</metamark>
-            <metamark place="topLeft">
+            <metamark><hi rend="u">1</hi></metamark>
+            <metamark place="top-left">
                <stamp>Manchester postal stamp</stamp>
             </metamark>
-            <metamark place="topRight">
+            <metamark place="top-right">
                <stamp>two postage stamps</stamp>
             </metamark>
 
@@ -218,7 +218,7 @@
             <pb facs="xxx"/>
             <!-- insert page picture -->
 
-            <metamark place="top" function="pageNumber">2.</metamark>
+            <metamark place="top" function="pagenumber">2.</metamark>
             <p> We were late arriving in Manchester<lb/> on Saturday. We got in about 7.0.<lb/>
                instead of 5.0. You were quite<lb/> right in supposing that it would<lb/> be raining.
                It certainly was, and<lb/> I do not think it has stopped<lb/> since.<lb/>
@@ -238,7 +238,7 @@
             <pb facs="xxx"/>
             <!-- insert page image -->
 
-            <metamark place="top" function="pageNumber">3.</metamark>
+            <metamark place="top" function="pagenumber">3.</metamark>
             <p> Perhaps we could have the<lb/> 21st “do”on the 12th September, if<lb/> this will be
                convenient to you.<lb/> However, let me know, and then<lb/> we can fix it.<lb/></p>
 
@@ -252,7 +252,7 @@
             <pb facs="xxx"/>
             <!-- insert page image -->
 
-            <metamark place="top" function="pageNumber">4.</metamark>
+            <metamark place="top" function="pagenumber">4.</metamark>
             <p> Well Jim! I do hope you<lb/> have a really good holiday, and<lb/> that you will feel
                much better<lb/> for it when you come back.<lb/></p>
 
@@ -338,7 +338,7 @@
                      </address>
                   </location>
                </fw>
-               <metamark function="pageNumber" place="topLeft"><hi rend="u">2.</hi></metamark> we
+               <metamark function="pagenumber" place="top-left"><hi rend="u">2.</hi></metamark> we
                didn’t get very wet. After lunch we climbed<lb/> Barone hill, where I gathered the
                heather I<lb/> sent you - which incidentally I hope you<lb/> received unsquashed and
                smelling of the hills -<lb/> and where we saw something of the rugged<lb/> nature of
@@ -380,7 +380,7 @@
                      </address>
                   </location>
                </fw>
-               <metamark function="pageNumber" place="topLeft"><hi rend="u">3.</hi></metamark> of
+               <metamark function="pagenumber" place="top-left"><hi rend="u">3.</hi></metamark> of
                the water through the trees. We are to<lb/> have a sing-song tonight.<lb/></p>
 
             <p>After all that talking about myself I’ll<lb/> go back to your letter - it was good to
@@ -411,12 +411,12 @@
          <div type="envelope">
             <pb facs="xxx"/>
             <!-- insert correct image here -->
-            <metamark place="topleft"><hi rend="u"/>2.</metamark>
-            <metamark place="topRight">
-               <stamp>Chorlton.C.Hardy postal stamp</stamp>
+            <metamark place="top-left"><hi rend="u">2.</hi></metamark>
+            <metamark place="top-right">
+               <stamp><note>Chorlton.C.Hardy postal stamp</note></stamp>
             </metamark>
-            <metamark place="topRight">
-               <stamp> postage stamp</stamp>
+            <metamark place="top-right">
+               <stamp> <note>postage stamp</note></stamp>
             </metamark>
 
             <p>
@@ -462,7 +462,7 @@
                Morris’ last Sunday next<lb/> week.<lb/></p>
             <pb facs="xxx"/>
             <!-- insert page image - scan 20 -->
-            <metamark place="topLeft" function="pageNumber">2.</metamark>
+            <metamark place="top-left" function="pagenumber">2.</metamark>
             <p>Our new minister, who is coming<lb/> in September, the one
                from<lb/><!-- place name tag? --> Headingley College, is named<lb/> “Rees”. Dad had a
                letter from<lb/> him, and I understand he<lb/> lives in Cardiff.<lb/></p>
@@ -476,7 +476,7 @@
                say, I am not playing tennis.<lb/></p>
             <pb facs="xxx"/>
             <!-- insert page image - scan 21 -->
-            <metamark place="topLeft" function="pageNumber">3.</metamark>
+            <metamark place="top-left" function="pagenumber">3.</metamark>
 
             <p>It would certainly have been<lb/> lovely if we could have had<lb/> our full
                fortnight’s holiday<lb/> together Jim, but still it<lb/> was grand to have had a<lb/>
@@ -705,12 +705,12 @@
          <div type="envelope">
             <pb facs="xxx"/>
             <!-- insert correct image here scan 30 -->
-            <metamark place="topleft">4</metamark>
-            <metamark place="topRight">
-               <stamp>postage stamp</stamp>
+            <metamark place="top-left">4</metamark>
+            <metamark place="top-right">
+               <stamp><note>postage stamp</note></stamp>
             </metamark>
             <metamark place="centre">
-               <stamp>Manchester postal stamp</stamp>
+               <stamp><note>Manchester postal stamp</note></stamp>
             </metamark>
 
             <p>
@@ -826,12 +826,12 @@
          <div type="envelope">
             <pb facs="xxx"/>
             <!-- insert correct image here - scan 36 -->
-            <metamark place="topleft"><hi rend="u">5</hi></metamark>
-            <metamark place="topRight">
-               <stamp>two postage stamps</stamp>
+            <metamark place="top-left"><hi rend="u">5</hi></metamark>
+            <metamark place="top-right">
+               <stamp><note>two postage stamps</note></stamp>
             </metamark>
             <metamark place="centre">
-               <stamp> Manchester postal stamp dated 2 Sep 1942</stamp>
+               <stamp><note> Manchester postal stamp dated 2 Sep 1942</note></stamp>
             </metamark>
 
             <p>
@@ -886,7 +886,8 @@
             <p> It seems so strange that we<lb/> should live so near, and yet<lb/> have to meet so
                far away as <lb/> Scotland, but I am sure there<lb/>
                <pb facs="xxx"/><!-- insert page image - scan 40 -->
-               <metamark function="pagenumber">3.</metamark> must be some divine purpose<lb/> behind
+               <metamark function="pagenumber">3.</metamark> 
+               must be some divine purpose<lb/> behind
                it all. <lb/></p>
 
             <p> Do let me know what size<lb/> gaiters you want. They have<lb/> them in 26” - 30”
@@ -901,7 +902,8 @@
 
             <p> By the way, if you have any<lb/> good ideas as to how we<lb/>
                <pb facs="xxx"/><!-- insert page image - scan 41 -->
-               <metamark function="pagenumber">4. </metamark> can entertain our guests the<lb/>
+               <metamark function="pagenumber">4. </metamark> 
+               can entertain our guests the<lb/>
                following Saturday please let<lb/> me know, as I am trying to<lb/> plan my
                programme.<lb/></p>
 
