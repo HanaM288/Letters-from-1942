@@ -12,7 +12,7 @@
                 <title>
                     <!-- add the title from the metadata. This is what will be shown
                     on your browsers tab-->
-                    frankensTEIn: Top Layer
+                    A Digital Compilation of Letters from 1942
                 </title>
                 <!-- load bootstrap css (requires internet!) so you can use their pre-defined css classes to style your html -->
                 <link rel="stylesheet"
@@ -31,9 +31,9 @@
                 </header>
                 <nav id="sitenav">
                     <a href="index.html">Home</a> |
-                    <a href="diplomatic.html">Diplomatic Transcription</a> |
-                    <a href="reading.html">Reading Text</a> |
-                    <a href="toplayer.html">Top Layer</a> |
+                    <a href="diplomatic.html">Gallery</a> |
+                    <a href="reading.html">Transcriptions</a> |
+                    <a href="toplayer.html">Metadata</a> |
                 </nav>
                 <main>
                     <!-- bootstrap "container" class makes the columns look pretty -->
@@ -45,13 +45,13 @@
                                 <article id="thumbnail">
                                     <img>
                                         <xsl:attribute name="src">
-                                            <xsl:value-of select="//tei:surface[@xml:id='postit01']//tei:graphic[@xml:id='postit01_thumb']/@url"/>
+                                            <xsl:value-of select="//tei:surface[@xml:id='scan01']//tei:graphic[@xml:id='scan01full']/@url"/>
                                         </xsl:attribute>
                                         <xsl:attribute name="title">
-                                            <xsl:value-of select="//tei:facsimile/tei:surface[@xml:id='postit01']//tei:label"/>
+                                            <xsl:value-of select="//tei:facsimile/tei:surface[@xml:id='scan01']//tei:label"/>
                                         </xsl:attribute>
                                         <xsl:attribute name="alt">
-                                            <xsl:value-of select="//tei:facsimile/tei:surface[@xml:id='postit01']//tei:figDesc"/>
+                                            <xsl:value-of select="//tei:facsimile/tei:surface[@xml:id='scan01']//tei:figDesc"/>
                                         </xsl:attribute>
                                     </img>
                                 </article>
@@ -77,7 +77,7 @@
                         </a>
                       </div>
                       <div>
-                         2022 Wout Dillen.
+                        
                       </div>
                     </div>
                 </div>
