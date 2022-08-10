@@ -30,14 +30,14 @@
             </availability>
             <date>March 2022</date>
             <availability>
-               <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
+               
                   <!-- do we want to have a CC licence? -->
-                  <p> Transcription distributed under a CC-BY-SA 4.0 license. </p>
-               </licence>
+                  <p>  </p>
+               
             </availability>
          </publicationStmt>
          <sourceDesc>
-            <p>A post-it with a simple example phrase on it</p>
+            <p>A digital compilation of letters written by Doreen Brown and James Mills in 1942.</p>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
@@ -56,12 +56,12 @@
       </profileDesc>
    </teiHeader>
    <facsimile>
-      <surface xml:id="postit01">
+      <surface xml:id="scan01">
          <figure>
             <label>Post-It 01</label>
-            <figDesc> A photograph of a post-it with a simple example phrase. </figDesc>
-            <graphic xml:id="postit01_full" url="assets/img/documents/postit01.png"/>
-            <graphic xml:id="postit01_thumb" url="assets/img/documents/postit01_thumb.png"/>
+            <figDesc> A digital compilation of letters written by Doreen Brown and James Mills in 1942. </figDesc>
+            <graphic xml:id="scan01full" url="assets/img/documents/scan01.jpeg"/>
+            
          </figure>
       </surface>
    </facsimile>
@@ -75,13 +75,13 @@
             <head>Letter 1 - Saturday Evening</head>
 
             <fw>
-               <orgName type="preprinted-text" rend="align(top-left) case(allcaps)">>METHODIST
+               <orgName type="preprinted-text" rend="align(top-left) case(uppercase)">>METHODIST
                   GUILD <lb/>
                   <hi rend="u">HOLIDAYS</hi>.</orgName>
                <lb/>
                <num type="preprinted-text">TELEPHONE DUNOON 234.</num>
               
-                  <location type="preprinted-text" rend="align(top-right) case(allcaps)">
+                  <location type="preprinted-text" rend="align(top-right) case(uppercase)">
                
                   <address>
                      <placeName>DHALLING MHOR</placeName>
@@ -120,12 +120,12 @@
                visitors book; remember?<lb/> You will be able to pass it on to <persName>Poppy</persName>.<lb/> You might
                note <!-- look up note for squiggle --> that the stamp is placed<lb/><pb facs="xxx"/><!-- insert correct page here -->
                <fw>
-                  <orgName rend="align(top-left) case(allcaps)" type="preprintedText" 
+                  <orgName rend="align(top-left) case(uppercase)" type="preprintedText" 
                      >>METHODIST GUILD <lb/>
                      <hi rend="u">HOLIDAYS</hi>.</orgName>
                   <lb/>
                   <num rend="align(top-left)" type="preprinted-text">TELEPHONE DUNOON 234.</num>
-                  <location rend="align(top-right) case(allcaps)" type="preprinted-text">
+                  <location rend="align(top-right) case(uppercase)" type="preprinted-text">
                      
                      <address>
                         <placeName>DHALLING MHOR</placeName>
@@ -183,11 +183,11 @@
             <p>
                <address>
                   <addrLine>Rev. James Mills,</addrLine>
-                  <addrLine rend="uppercase">"DHALLING MHOR",</addrLine>
+                  <addrLine rend="case(uppercase)">"DHALLING MHOR",</addrLine>
                   <addrLine>Kirn,</addrLine>
                   <addrLine>nr. Dunoon,</addrLine>
                   <addrLine>Argyllshire,</addrLine>
-                  <addrLine rend="uppercase">SCOTLAND</addrLine>
+                  <addrLine rend="case(uppercase)">SCOTLAND</addrLine>
                </address>
             </p>
             <pb/>
@@ -281,12 +281,12 @@
             <head>Letter 3 - August 13th</head>
 
             <fw>
-               <orgName rend="align(top-left case(allcaps)" type="preprinted-text">>METHODIST
+               <orgName rend="align(top-left) case(uppercase)" type="preprinted-text">>METHODIST
                   GUILD <lb/>
                   <hi rend="u">HOLIDAYS</hi>.</orgName>
                <lb/>
-               <num rend="align(top-left) case(allcaps)" type="preprinted-text">TELEPHONE DUNOON 234.</num>
-               <location rend="align(top-right case(allcaps)" type="preprinted-text">
+               <num rend="align(top-left) case(uppercase)" type="preprinted-text">TELEPHONE DUNOON 234.</num>
+               <location rend="align(top-right case(uppercase)" type="preprinted-text">
                  
                   <address>
                      <placeName>DHALLING MHOR</placeName>
@@ -325,12 +325,12 @@
                There<lb/> were some heavy showers of rain, too, but<lb/>
                <pb facs="xxx"/><!-- insert page image here -->
                <fw>
-                  <orgName rend="align(top-left) case(allcaps)" type="preprinted-text"
+                  <orgName rend="align(top-left) case(uppercase)" type="preprinted-text"
                      >>METHODIST GUILD <lb/>
                      <hi rend="u">HOLIDAYS</hi>.</orgName>
                   <lb/>
-                  <num rend="align(top-left) case(allcaps)" type="preprinted-text">TELEPHONE DUNOON 234.</num>
-                  <location rend="align(top-right) case(allcaps)" type="preprinted-text">
+                  <num rend="align(top-left) case(uppercase)" type="preprinted-text">TELEPHONE DUNOON 234.</num>
+                  <location rend="align(top-right) case(uppercase)" type="preprinted-text">
                 
                      <address>
                         <placeName>DHALLING MHOR</placeName>
@@ -368,12 +368,12 @@
                valleys;<lb/> and from time to time one caught a glimpse<lb/><pb facs="xxx"/>
                <!-- insert page image here- scan 14 -->
                <fw>
-                  <orgName rend="align(top-left) case(allcaps)" type="preprinted-text">
+                  <orgName rend="align(top-left) case(uppercase)" type="preprinted-text">
                      >>METHODIST GUILD <lb/>
                      <hi rend="u">HOLIDAYS</hi>.</orgName>
                   <lb/>
-                  <num rend="align(top-left case(allcaps)" type="preprinted-text">TELEPHONE DUNOON 234.</num>
-                  <location rend="align(top-right) case(allcaps)" type="preprinted-text">
+                  <num rend="align(top-left case(uppercase)" type="preprinted-text">TELEPHONE DUNOON 234.</num>
+                  <location rend="align(top-right) case(uppercase)" type="preprinted-text">
                   
                      <address>
                         <placeName>DHALLING MHOR</placeName>
@@ -427,7 +427,7 @@
                   <addrLine>Rev. James Mills,</addrLine>
                   <addrLine>22, Maitland Street,</addrLine>
                   <addrLine>Hempshaw Lane,</addrLine>
-                  <addrLine rend="uppercase">STOCKPORT,</addrLine>
+                  <addrLine rend="case(uppercase)">STOCKPORT,</addrLine>
                   <addrLine>Ches.</addrLine>
 
                </address>
