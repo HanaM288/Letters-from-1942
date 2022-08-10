@@ -31,9 +31,9 @@
                 </header>
                 <nav id="sitenav">
                     <a href="index.html">Home</a> |
-                    <a href="diplomatic.html">Diplomatic Transcription</a> |
-                    <a href="reading.html">Reading Text</a> |
-                    <a href="toplayer.html">Top Layer</a> |
+                    <a href="diplomatic.html">Gallery</a> |
+                    <a href="reading.html">Transcriptions</a> |
+                    <a href="toplayer.html">Metadata</a> |
                 </nav>
                 <main id="manuscript">
                     <!-- bootstrap "container" class makes the columns look pretty -->
@@ -46,13 +46,13 @@
                                    <h3>Image</h3>
                                 <img width="400">
                                     <xsl:attribute name="src">
-                                        <xsl:value-of select="//tei:surface[@xml:id='postit01']//tei:graphic[@xml:id='postit01_full']/@url"/>
+                                        <xsl:value-of select="//tei:surface[@xml:id='scan01']//tei:graphic[@xml:id='scan01full']/@url"/>
                                     </xsl:attribute>
                                     <xsl:attribute name="title">
-                                        <xsl:value-of select="//tei:facsimile/tei:surface[@xml:id='postit01']//tei:label"/>
+                                        <xsl:value-of select="//tei:facsimile/tei:surface[@xml:id='scan0101']//tei:label"/>
                                     </xsl:attribute>
                                     <xsl:attribute name="alt">
-                                        <xsl:value-of select="//tei:facsimile/tei:surface[@xml:id='postit01']//tei:figDesc"/>
+                                        <xsl:value-of select="//tei:facsimile/tei:surface[@xml:id='scan01']//tei:figDesc"/>
                                     </xsl:attribute>
                                 </img>
                                </article>
@@ -76,7 +76,7 @@
                         </a>
                       </div>
                       <div>
-                         2022 Wout Dillen.
+                       
                       </div>
                     </div>
                 </div>
