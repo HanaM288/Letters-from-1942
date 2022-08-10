@@ -60,7 +60,7 @@
          <figure>
             <label>Post-It 01</label>
             <figDesc> A digital compilation of letters written by Doreen Brown and James Mills in 1942. </figDesc>
-            <graphic xml:id="scan01full" url="assets/img/documents/scan01.jpeg"/>
+            <graphic xml:id="scan01full" url="/Users/hannahmills/Documents/GitHub/Letters-from-1942-v2/docs/assets/img/documents/Scan01.jpg"/>
             
          </figure>
       </surface>
@@ -69,7 +69,7 @@
 
       <body>
          <div n="1" type="letter" hand="#JM">
-            <pb facs="#postit01"/>
+            <pb facs="#scan01"/>
             <!-- insert page location here -->
             <!-- insert correct image here -->
             <head>Letter 1 - Saturday Evening</head>
