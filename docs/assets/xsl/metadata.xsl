@@ -30,10 +30,10 @@
                     </h1>
                 </header>
                 <nav id="sitenav">
-                    <a href="index.html">Home</a> |
-                    <a href="diplomatic.html">Gallery</a> |
-                    <a href="reading.html">Transcriptions</a> |
-                    <a href="toplayer.html">Metadata</a> |
+                    <a href="homepage.html">Home</a> |
+                    <a href="gallery.html">Gallery</a> |
+                    <a href="transcriptions.html">Transcriptions</a> |
+                    <a href="metadata.html">Metadata</a> |
                 </nav>
                 <main>
                     <!-- bootstrap "container" class makes the columns look pretty -->
