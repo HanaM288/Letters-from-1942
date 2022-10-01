@@ -49,7 +49,7 @@
                                         <xsl:value-of select="//tei:surface[@xml:id='scan01']//tei:graphic[@xml:id='scan01full']/@url"/>
                                     </xsl:attribute>
                                     <xsl:attribute name="title">
-                                        <xsl:value-of select="//tei:facsimile/tei:surface[@xml:id='scan0101']//tei:label"/>
+                                        <xsl:value-of select="//tei:facsimile/tei:surface[@xml:id='scan01']//tei:label"/>
                                     </xsl:attribute>
                                     <xsl:attribute name="alt">
                                         <xsl:value-of select="//tei:facsimile/tei:surface[@xml:id='scan01']//tei:figDesc"/>
