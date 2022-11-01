@@ -327,15 +327,12 @@
       <graphic xml:id="scan44" url="assets/img/documents/Scan44.jpg"/>
       <graphic xml:id="scan45" url="assets/img/documents/Scan45.jpg"/> 
    </facsimile>
+   
    <text>
-
       <body>
-         <div n="Letter 1 - Saturday Evening" type="letter" hand="#JM">
+         <div n="1" type="letter" hand="#JM" >
             <pb facs="#scan01"/>
-            <!-- insert page location here -->
-            <!-- insert correct image here -->
-          
-
+           
             <fw>
                <orgName type="preprinted-text" rend="align(top-left) case(uppercase)">>METHODIST
                   GUILD <lb/>
@@ -368,7 +365,7 @@
                railway journey and I kept saying to myself, “They<lb/> will have reached <placeName>Glasgow</placeName>
                now; they will be on the<lb/> <choice><abbr>M/C</abbr><expan>Manchester</expan></choice>train now.”</p>
             <p> I can’t say how much I’ve missed<lb/> you today. I’ve wondered round a bit on my own,<lb/>
-               <pb facs="#scan02"/><!-- enter correct page here --> and played cards a bit with the
+               <pb facs="#scan02"/> and played cards a bit with the
                older generation,<lb/> and slept a bit. <persName>Harry</persName> and <persName>Ellie</persName>, <persName>Jack</persName> and<lb/> <persName>Jean</persName> wanted me
                to go to the pictures with<lb/> them but as they were going to see <title
                      type="film">Gert and<lb/> Daisy</title> I declined the invitation.</p>
@@ -380,7 +377,7 @@
             <p>There was a letter here for <persName>Poppy</persName>.<lb/> <persName>Mr. Henderson</persName>and I were re-addressing them
                and it’s<lb/> been sent on to your house; your address was<lb/> the one given in the
                visitors book; remember?<lb/> You will be able to pass it on to <persName>Poppy</persName>.<lb/> You might
-               note <!-- look up note for squiggle --> that the stamp is placed<lb/><pb facs="#scan03"/><!-- insert correct page here -->
+               note <!-- look up note for squiggle --> that the stamp is placed<lb/><pb facs="#scan03"/>
                <fw>
                   <orgName rend="align(top-left) case(uppercase)" type="preprintedText" 
                      >>METHODIST GUILD <lb/>
@@ -411,7 +408,7 @@
                I shall<lb/> count the days to Sept. with keen anticipation.<lb/> Don’t do too much
                work next week if you<lb/> don’t feel like it; I’ll give you permission to<lb/>
                <pb facs="#scan04"/>
-               <!-- insert correct page here --> slack but don’t let the boss see you. Think<lb/> of
+               slack but don’t let the boss see you. Think<lb/> of
                me on the hills (that’s where I shan’t<lb/> be if it keeps raining).<lb/>
             </p>
             <p>I ought to have said this morning,<lb/> ‘Thanks for helping to make my week’s
@@ -431,7 +428,7 @@
 
 
          <pb facs="#scan05"/>
-         <div n="Letter 2 envelope" type="envelope">
+         <div n="1" type="envelope">
             
            
             <metamark><hi rend="u">1</hi></metamark>
@@ -453,14 +450,14 @@
                </address>
             </p>
             <pb facs="scan06"/>
-            <!-- insert back of envelope here -->
+           
             <p>XXXXXXXXXXXXXXX<lb/>XXXXXXXXXXX<lb/>XXXXXXXXXXXXXXX</p>
             <metamark place="centre" function="seal"><note>a red wax seal</note></metamark>
           
          </div>
 
 
-         <div type="letter" n="Letter 2 - Tuesday" hand="#DB">
+         <div  n=" 2" type="letter" hand="#DB">
             <pb facs="#scan07"/>
             <opener>
                <address rend="align(top-right)">
@@ -483,7 +480,7 @@
                all the same,<lb/> I can’t help wishing I was<lb/> back at <placeName>Dhalling Mhor</placeName>!<lb/>
             </p>
             <pb facs="#scan08"/>
-            <!-- insert page picture -->
+           
 
             <metamark place="top" function="pagenumber">2.</metamark>
             <p> We were late arriving in <placeName>Manchester</placeName><lb/> on Saturday. We got in about <time when="19:00:00">7.0</time>.<lb/>
@@ -503,7 +500,7 @@
                on them (I have<lb/> cultivated the Scotch habit, haven’t I?)<lb/>
             </p>
             <pb facs="#scan09"/>
-            <!-- insert page image -->
+           
 
             <metamark place="top" function="pagenumber">3.</metamark>
             <p> Perhaps we could have the<lb/> 21st “do” on the <date when="1942-09-12">12th September</date>, if<lb/> this will be
@@ -517,7 +514,7 @@
                you and Dad<lb/> on it, so, no doubt, you<lb/> will recognise him when<lb/> you see
                him.<lb/></p>
             <pb facs="#scan10"/>
-            <!-- insert page image -->
+           
 
             <metamark place="top" function="pagenumber">4.</metamark>
             <p> Well <persName>Jim</persName>! I do hope you<lb/> have a really good holiday, and<lb/> that you will feel
@@ -537,10 +534,9 @@
          </div>
 
 
-         <div type="letter" n="Letter 3 - August 13th" hand="#JM">
+         <div  n="3" type="letter" hand="#JM">
             <pb facs="#scan11"/>
-            <!-- insert page location here -->
-            <!-- insert correct image here -->
+           
            
 
             <fw>
@@ -574,7 +570,7 @@
 
             <p>This week has been much<lb/> different from last in many ways. First and<lb/>
                <pb facs="#scan12"/>
-               <!-- insert page image here --> foremost - you are not here; then the weather
+               foremost - you are not here; then the weather
                <lb/>has been awfully bad until today; these<lb/> things have tended to make me a bit
                fed<lb/> up. We have not been able to get out<lb/> much and you will realise that
                being in<lb/> here day after day aimlessly whiling away<lb/> the time is not a good
@@ -586,7 +582,7 @@
             <p>On Monday we did <placeName>Rothesay</placeName> again.<lb/> The sail was most exhilarating. <name type="river">The Clyde</name><lb/>
                was <q>‘choppy’</q> and the boat tossed quite a<lb/> bit and took showers over the bow.
                There<lb/> were some heavy showers of rain, too, but<lb/>
-               <pb facs="#scan13"/><!-- insert page image here -->
+               <pb facs="#scan13"/>
                <fw>
                   <orgName rend="align(top-left) case(uppercase)" type="preprinted-text"
                      >>METHODIST GUILD <lb/>
@@ -616,7 +612,7 @@
             <p>On Tuesday, in the rain, a few of<lb/> us went to <placeName>Killcraigon</placeName> and walked about<lb/>
                five or six miles to <placeName>Loch Long</placeName>. The concert <lb/>in the evening was not bad but was
                not<lb/> so good as last week’s. Wednesday was<lb/><pb facs="#scan14"
-               /><!-- insert page image --> rather a miserable day. We had showers<lb/> throughout
+               />rather a miserable day. We had showers<lb/> throughout
                the day and after playing bowls in<lb/> the tournament I had an hour and a<lb/> half
                lying on my bed. In the evening<lb/> nearly everybody went to the Cosy Corner so<lb/>
                four of us - <persName>Mrs. Henderson</persName>, <persName>Mrs. Rawlinson</persName> and<lb/> <persName>Joan </persName>and I played
@@ -629,7 +625,7 @@
                to <placeName>Ardentinny</placeName>. The<lb/> scenery beggars description; it is absolutely<lb/> exquisite
                - the strong, silent hills contrasted<lb/> beautifully with the wooded, flowery
                valleys;<lb/> and from time to time one caught a glimpse<lb/><pb facs="#scan15"/>
-               <!-- insert page image here- scan 14 -->
+               
                <fw>
                   <orgName rend="align(top-left) case(uppercase)" type="preprinted-text">
                      >>METHODIST GUILD <lb/>
@@ -657,7 +653,7 @@
                I should<lb/> recognise your Dad. I must have a look<lb/> at it when I come to the
                ‘do’ next month.<lb/> The <date when="1942-09-12">12th </date>will be quite all right for me<lb/> and I shall look
                forward to seeing<lb/> you and your parents then. It would<lb/><pb facs="#scan16"
-               /><!-- insert page image - scan 15 --> be jolly nice to see you before then and<lb/>
+               />be jolly nice to see you before then and<lb/>
                if you have a Saturday afternoon free in<lb/> a fortnight’s time maybe you’ll let
                me<lb/> know and we could fix a re-union in<lb/> the City somewhere.<lb/></p>
 
@@ -674,9 +670,9 @@
             </closer>
          </div>
 
-         <div type="envelope" n="Letter 4 envelope">
+         <div n="2" type="envelope" >
             <pb facs="#scan17"/>
-            <!-- insert correct image here -->
+            
             <metamark place="top-left"><hi rend="u">2.</hi></metamark>
             <metamark place="top-right">
                <stamp><note>Chorlton.C.Hardy postal stamp</note></stamp>
@@ -696,15 +692,14 @@
                </address>
             </p>
             <pb facs="#scan18"/>
-            <!-- insert back of envelope here -->
             <p>XXXXXXXXXXXXXXX<lb/>XXXXXXXXXXX<lb/>XXXXXXXXXXXXXXX</p>
 
          </div>
 
 
-         <div type="letter" n="Letter 4 - August 17th" hand="#DB">
+         <div n="4" type="letter" hand="#DB">
             <pb facs="#scan19"/>
-            <!-- inset page image here - scan 19 -->
+            
            
             <opener>
                <address rend="align(top-right)">
@@ -727,7 +722,7 @@
                know how <lb/>busy you must have been,<lb/> and I do appreciate it <persName>Jim</persName>.<lb/> It is
               <persName> Morris’</persName> last Sunday next<lb/> week.<lb/></p>
             <pb facs="#scan20"/>
-            <!-- insert page image - scan 20 -->
+         
             <metamark place="top-left" function="pagenumber">2.</metamark>
             <p>Our new minister, who is coming<lb/> in <date when="1942-09">September</date>, the one
                from<lb/><placeName>Headingley College</placeName>, is named<lb/> <persName><q>“Rees”</q></persName>. Dad had a
@@ -741,7 +736,7 @@
                where some<lb/> of them are playing in a <lb/>tennis tournament. Needless<lb/> to
                say, I am not playing tennis.<lb/></p>
             <pb facs="#scan21"/>
-            <!-- insert page image - scan 21 -->
+            
             <metamark place="top-left" function="pagenumber">3.</metamark>
 
             <p>It would certainly have been<lb/> lovely if we could have had<lb/> our full
@@ -756,7 +751,7 @@
             <p>Perhaps you would like me<lb/> to show you where <name type="church">Platt Church</name><lb/> is, as it would be
                a nice walk &amp;<lb/>
                <pb facs="#scan22"/>
-               <!-- insert page number - scan 22 --> a friend of mine - <persName>Daisy<lb/> Harding</persName> - from
+               a friend of mine - <persName>Daisy<lb/> Harding</persName> - from
                church, has<lb/> gone to <placeName>Dhalling Mhor</placeName> for this<lb/> week, so I suppose she will
                <lb/>have a great time if the<lb/> weather improves. She has<lb/> joined up in the
              <orgName>NAAFI’S</orgName>, and<lb/> is stationed in <placeName type="city">Gloucester</placeName>
@@ -774,9 +769,9 @@
            
          </div>
 
-         <div type="letter" n="Letter 5 - August 18th" hand="#JM">
+         <div n="5" type="letter" hand="#JM">
             <pb facs="#scan23"/>
-            <!-- inset page image here - scan 23 -->
+            
            
             <opener>
                <address rend="align(top-right)">
@@ -804,7 +799,7 @@
                Jackson</persName>, who, as you know, is an ex-president<lb/> of the Conference and very able
                preacher, in the congregation<lb/>
                <pb facs="#scan24"/>
-               <!-- insert page here - scan 24 --> at <placeName>Bramhall</placeName> and I was rather <q>‘nervy’</q> as I took
+               at <placeName>Bramhall</placeName> and I was rather <q>‘nervy’</q> as I took
                the<lb/> service. However, God blessed us and we had a great time.<lb/> I spent an
                hour with<persName> Mr. &amp; Mrs. Harold Darly</persName> on Sunday<lb/> evening poring over a map of
                <placeName type="country">Scotland </placeName>and pointing out<lb/> the places I had visited.<lb/></p>
@@ -823,7 +818,7 @@
 
 
             <p>I shall have to leave this letter now as I<lb/>
-               <pb facs="#scan25"/><!-- insert page image - scan 25 --> have an appointment at <time when="14:30:00">2-30</time> and
+               <pb facs="#scan25"/>have an appointment at <time when="14:30:00">2-30</time> and
                it’s already <time when="14:30:00">2.20</time>. So<lb/> until Saturday every good wish. My thoughts are
                always<lb/> with you, <persName>Doreen</persName>,<lb/></p>
 
@@ -851,9 +846,9 @@
 
          </div>
 
-         <div type="letter" n="Letter 6 - August 24th" hand="#JM">
+         <div n="6" type="letter" hand="#JM">
             <pb facs="#scan26"/>
-            <!-- inset page image here - scan 26 -->
+           
            
             <opener>
                <address rend="align(top-right)">
@@ -883,7 +878,7 @@
                know<lb/> because he moved away very soon after without much more
                conversation.<lb/></p>
             <pb facs="#scan27"/>
-            <!-- insert page image - scan 27 -->
+            
 
             <p>On reaching town I found that the last bus had<lb/> gone and so made my way to <placeName type="station">London
                Road station</placeName> and by the<lb/> skin of my teeth managed to get the <time when="23:00:00">eleven o’clock</time>
@@ -911,9 +906,9 @@
 
          </div>
 
-         <div type="letter" n="Letter 7 - Thusday" hand="#JM">
+         <div n="7" type="letter" hand="#JM">
             <pb facs="#scan28"/>
-            <!-- inset page image here - scan 28 -->
+            
             
             <opener>
                <address rend="align(top-right)">
@@ -945,7 +940,7 @@
                district. You and<lb/> I, <persName>Doreen</persName>, are fortunate; we might have lived miles away from
                each<lb/> other.<lb/></p>
             <pb facs="#scan29"/>
-            <!-- insert page image here - scan 29  -->
+           
 
             <p><persName>The Hardings</persName> seem delightful people. They are generous<lb/> with Sir Walter Scott. I
                must make some arrangements regarding those<lb/> books and get them out of their way.
@@ -968,9 +963,9 @@
 
          </div>
 
-         <div type="envelope" n="Letter 8 envelope">
+         <div  n="3" type="envelope">
             <pb facs="#scan30"/>
-            <!-- insert correct image here scan 30 -->
+            
             <metamark place="top-left">4</metamark>
             <metamark place="top-right">
                <stamp><note>postage stamp</note></stamp>
@@ -990,15 +985,15 @@
                </address>
             </p>
             <pb facs="#scan31"/>
-            <!-- insert back of envelope here - scan 31-->
+           
 
 
          </div>
 
 
-         <div type="letter" n="Letter 8 - August 31st" hand="#DB">
+         <div n="8" type="letter" hand="#DB">
             <pb facs="#scan32"/>
-            <!-- inset page image here - scan 32 -->
+            
             
             <opener>
                <address rend="align(top-right)">
@@ -1034,9 +1029,9 @@
 
          </div>
 
-         <div type="letter" n="Letter 9 - August 31st" hand="#JM">
+         <div n="9" type="letter" hand="#JM">
             <pb facs="#scan34"/>
-            <!-- inset page image here - scan 34 -->
+           
             
             <opener>
                <address rend="align(top-right)">
@@ -1064,7 +1059,7 @@
                sincere. That is why I am<lb/> expressing it to you first on paper. It is not
                always<lb/> easy for one to say in words what one feels in one’s<lb/> heart and
                although I intended saying this into your ear<lb/>
-               <pb facs="#scan35"/><!-- insert page image - scan 35 --> yet the right psychological
+               <pb facs="#scan35"/>yet the right psychological
                moment didn’t seem to present itself.<lb/> But I wanted you to know what I felt in my
                heart<lb/> before we see each other again; I could not wait for next<lb/>
                Saturday.<lb/></p>
@@ -1089,9 +1084,9 @@
 
          </div>
 
-         <div type="envelope" n="Letter 10 envelope">
+         <div n="4" type="envelope" >
             <pb facs="#scan36"/>
-            <!-- insert correct image here - scan 36 -->
+           
             <metamark place="top-left"><hi rend="u">5</hi></metamark>
             <metamark place="top-right">
                <stamp><note>two postage stamps</note></stamp>
@@ -1111,14 +1106,13 @@
                </address>
             </p>
             <pb facs="#scan37"/>
-            <!-- insert back of envelope here - scan 37  -->
+          
 
 
          </div>
 
-         <div type="letter" n="Letter 10 - September 1st" hand="#DB">
+         <div n="10" type="letter" hand="#DB">
             <pb facs="#scan38"/>
-            <!-- insert page image here - scan 38 -->
             
             <opener>
                <address rend="align(top-right)">
@@ -1138,7 +1132,7 @@
                I am always thinking about you,<lb/> and I am so proud to think<lb/> you are doing
                such a great<lb/> work, which is the greatest<lb/> thing in life. <lb/></p>
             <pb facs="#scan39"/>
-            <!-- insert page image - scan 39 -->
+         
             <metamark function="pagenumber">2.</metamark>
 
             <p>This weekend will for ever<lb/> live in my memory, dear.<lb/> I enjoyed evey minute
@@ -1151,7 +1145,7 @@
 
             <p> It seems so strange that we<lb/> should live so near, and yet<lb/> have to meet so
                far away as <lb/> <placeName type="country">Scotland</placeName>, but I am sure there<lb/>
-               <pb facs="#scan40"/><!-- insert page image - scan 40 -->
+               <pb facs="#scan40"/>
                <metamark function="pagenumber">3.</metamark> 
                must be some divine purpose<lb/> behind
                it all. <lb/></p>
@@ -1167,7 +1161,7 @@
             <p>I am so much looking forward<lb/> to seeing you on Saturday.<lb/></p>
 
             <p> By the way, if you have any<lb/> good ideas as to how we<lb/>
-               <pb facs="#scan41"/><!-- insert page image - scan 41 -->
+               <pb facs="#scan41"/>
                <metamark function="pagenumber">4. </metamark> 
                can entertain our guests the<lb/>
                following Saturday please let<lb/> me know, as I am trying to<lb/> plan my
@@ -1184,9 +1178,9 @@
 
          </div>
 
-         <div type="letter" n="Letter 11 - September 2nd" hand="#JM">
+         <div n="11" type="letter" hand="#JM">
             <pb facs="#scan42"/>
-            <!-- inset page image here - scan 42 -->
+         
             
             <opener>
                <address rend="align(top-right)">
@@ -1215,7 +1209,7 @@
             <p>Just before going to <placeName>Dhalling Mhor</placeName> my work was<lb/> getting on top of me; I had
                worked hard and I was tired; but<lb/> I was rather unhappy, too. I can’t explain it
                properly but<lb/>
-               <pb facs="#scan43"/><!-- insert page image - scan 43 --> it seemed as though I were
+               <pb facs="#scan43"/>it seemed as though I were
                struggling alone. People so often<lb/> didn’t understand; they let me down badly on
                occasion. All<lb/> that is altered now. I shall always think <placeName>Dhalling Mhor</placeName><lb/> a
                blessed spot and I shall always remember the first<lb/> Sunday morning at breakfast
@@ -1234,7 +1228,7 @@
                two<lb/> folks read from behind a screen or curtain. I’ve done it once<lb/> and we
                found it very good. I’ll get hold of the<lb/> book for Saturday and then you can see
                it. I might<lb/> sing - then again, I might not - <q>“If you want a bit o’Lancashire<lb/>
-               <pb facs="#scan44"/><!-- insert page image - scan 44 --> we know where it is”</q>. Joking
+               <pb facs="#scan44"/>we know where it is”</q>. Joking
                aside; I’ll ransack my<lb/> brains and try and dig up some other ideas. What about
                a<lb/> beetle drive? I’ll bring my papers and dice if you decide on<lb/> it. Beetle
                always makes good entertainment. <lb/></p>
@@ -1254,7 +1248,7 @@
                having fellowship with the ministers of the staff; and<lb/> I know you love it, too.
                On Friday we have a staff<lb/> meeting at five; tea at six; and a stewards’
                meeting<lb/> after tea. The circuit stewards are always welcomed into the<lb/>
-               <pb facs="#scan45"/><!-- insert page image - scan 45 --> staff meeting for a moment when
+               <pb facs="#scan45"/>staff meeting for a moment when
                they hand out little<lb/> envelopes containing quarterly cheques. <orgName>Methodism</orgName> is
                wonderful<lb/> and I am very proud to be able to serve her as a<lb/> minister. There
                can be nothing higher in life. <lb/></p>
