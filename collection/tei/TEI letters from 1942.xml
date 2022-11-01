@@ -7,63 +7,326 @@
       <fileDesc>
          <titleStmt>
             <title>A Digital Compilation of Letters from 1942</title>
-            <author corresp="#JM">James Mills</author>
+            <author corresp="#JM">James Mills <addName type="nickname">Jim</addName></author> 
             <author corresp="#DB">Doreen Brown <addName type="marriedName">Doreen Mills</addName>
             </author>
             <respStmt>
-               <resp>compiler</resp>
-
-               <name>Hannah Mills</name>
-            </respStmt>
-            <respStmt>
-               <resp>compiler</resp>
-               <name>Jessica Pettit </name>
+               <resp>compiled by</resp>
+               <name xml:id="HM">Hannah Mills</name>
+               <name xml:id="JP">Jessica Pettit</name>
             </respStmt>
          </titleStmt>
          <publicationStmt>
             <authority>Hannah Mills</authority>
+            <distributor>The University of Borås</distributor>
             <address>
-               <addrLine/>
+               <addrLine>Allégatan 1</addrLine>
+               <addrLine>503 32 Borås</addrLine>
+               <addrLine>Sweden</addrLine>
             </address>
             <availability>
-               <p/>
+               <p>Availble with prior consent of the authority for non-commercial purposes only</p>
             </availability>
             <date>March 2022</date>
-            <availability>
-               
-                  <!-- do we want to have a CC licence? -->
-                  <p>  </p>
-               
-            </availability>
          </publicationStmt>
          <sourceDesc>
-            <p>A digital compilation of letters written by Doreen Brown and James Mills in 1942.</p>
+            <msDesc>
+               <msIdentifier>
+                  <msName>Letters written by Doreen Brown and James Mills to each other in 1942</msName>
+               </msIdentifier>
+               <msContents>
+                  <summary>The original documents comprise 11 letters written between Doreen Brown and James Mills in 1942. Letters from Doreen to James are still in envelopes. 
+                     All the letters are written on varying types of paper </summary>
+                  <textLang mainLang="en">English</textLang>
+               </msContents>
+              <physDesc>
+                 <objectDesc >
+                    <supportDesc>
+                       <extent>
+                         Letter 1 - 4 pages written double sided on 2 pieces of paper
+                          <dimensions unit="cm">
+                             <height> 21 </height>
+                             <width>13.5</width>
+                          </dimensions>
+                          Letter 2 - 4 pages written on 1 piece of paper that is folded in the middle in order to read like a book
+                          <dimensions unit="cm">
+                             <height>17.5</height>
+                             <width>14</width>
+                          </dimensions>
+                          Letter 3 - 6 pages written doubled sided on 3 pieces of paper
+                          <dimensions unit="cm">
+                             <height>21</height>
+                             <width>13.5</width>
+                          </dimensions>
+                          Letter 4 - 4 pages written on 1 piece of paper that is folded in the middle in order to read like a book
+                          <dimensions unit="cm">
+                             <height>17.5</height>
+                             <width>14</width>
+                          </dimensions>
+                          Letter 5 - 3 pages written single sided on 3 pieces of paper.
+                          <dimensions unit="cm">
+                             <height>25</height>
+                             <width>20.5</width>
+                          </dimensions>
+                          Letter 6 - 2 pages written double sided on 1 piece of paper. 
+                          <dimensions unit="cm">
+                             <height>26.5</height>
+                             <width>21</width>
+                          </dimensions>
+                          Letter 7 - 2 pages written double sided on 1 piece of paper.
+                          <dimensions unit="cm">
+                             <height>26.5</height>
+                             <width>21</width>
+                          </dimensions>
+                          Letter 8 - 2 pages written double sided on 1 piece of paper.
+                          <dimensions unit="cm">
+                             <height>17.5</height>
+                             <width>13.5</width>
+                          </dimensions>
+                          Letter 9 - 2 pages written double sided on 1 piece of paper.
+                          <dimensions unit="cm">
+                             <height>26.5</height>
+                             <width>21</width>
+                          </dimensions>
+                          Letter 10 - 4 pages written on 1 piece of paper that is folded in the middle in order to read like a book
+                          <dimensions unit="cm">
+                             <height>17.5</height>
+                             <width>14</width>
+                          </dimensions>
+                          Letter 11 - 4 pages written double sided on 2 pieces of paper
+                          <dimensions unit="cm">
+                             <height> 26.5 </height>
+                             <width>21</width>
+                          </dimensions>
+                       </extent>
+                    </supportDesc>
+                 </objectDesc>
+                 <accMat>
+                    <p>Envelope for letter 2. 2 postages stamps in the top right hand corner and a Machester post mark in the top left corner. On the back there is a red seal.
+                    <dimensions unit="cm">
+                       <height>9.5</height>
+                       <width>15.5</width>
+                    </dimensions></p>
+                    <p>Envelope for letter 4. 1 postage stamp in the top right corner and a Manchester post mark in the centre.
+                    <dimensions unit="cm">
+                       <height>9.5</height>
+                       <width>15.5</width>
+                    </dimensions>
+                    </p>
+                    <p>Envelope for letter 8. 1 postage stamp in the top right corner and a Manchester post mark in the centre. 
+                    <dimensions unit="cm">
+                       <height>10.5</height>
+                       <width>14.5</width>
+                    </dimensions></p>
+                    <p>Envelope for letter 10. 2 postage stamps in the top right corner and a Manchester post mark in the centre. 
+                    <dimensions unit="cm">
+                       <height>10.5</height>
+                       <width>14.5</width>
+                    </dimensions></p>
+                 </accMat>
+              </physDesc>
+            </msDesc>   
          </sourceDesc>
       </fileDesc>
       <encodingDesc>
-         <p/>
+         <projectDesc>
+         <p>This TEI encoding has been done as part of a digitisation project in the
+            Digitising Cultural Heritage Materials Course at the University of Borås.</p>
+         <p>11 letters were selected for the project from 1942. However, the entire collection consists of many letters and spans from 1942 until later in the 1950s.</p>
+         </projectDesc>
+         <editorialDecl>
+            <normalization>
+               <p>Original spelling has been maintained and any spelling mistakes have not been corrected.</p>
+            </normalization>
+            <quotation>
+               <p>Quotation marks have been left as they appear in the original text using either " or ' and the
+                  <gi>q</gi> has also been used.</p>               
+            </quotation>
+            <correction>
+               <p> Where spelling mistakes made by the authors occur they have been
+               indicated using the <gi>sic</gi> element but the original spelling has been maintained .</p>
+            </correction>
+         </editorialDecl>
       </encodingDesc>
       <profileDesc>
+         <langUsage>
+            <language ident="en">English</language>
+         </langUsage>
          <handNotes>
-            <handNote xml:id="WD" medium="blue-ink">Original text in blue ink, written by Wout
-               Dillen.</handNote>
+            <handNote xml:id="JM" medium="black-ink">Original text in black ink, written by James Mills.</handNote>
+            <handNote xml:id="DB" medium="blue-ink" >Original text in vlue ink, written by Doreen Brown.</handNote>
          </handNotes>
-         <correspDesc>
-            <correspAction>
-               <persName><!-- complete info here - check TEI guideslines for correspDesc --></persName>
+         <correspDesc n="1">
+            <correspAction type="sent">
+               <persName>James Mills</persName>
+               <placeName>Dhalling Mhor, Dunoon</placeName>
+               <date when="1942-08">Saturday Evening, August 1942</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Doreen Brown</persName>
+               <placeName>Manchester</placeName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc n="2">
+            <correspAction type="sent">
+               <persName>Doreen Brown</persName>
+               <placeName>Manchester</placeName>
+               <date when="1942-08">Tuesday, Auugust 1942</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName>James Mills</persName>
+               <placeName>Dhalling Mhor, Dunoon</placeName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc n="3">
+            <correspAction type="sent">
+               <persName>James Mills</persName>
+               <placeName>Dhalling Mhor, Dunoon</placeName>
+               <date when="1942-08-13"> August 13th 1942</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Dorren Brown</persName>
+               <placeName>Manchester</placeName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc n="4">
+            <correspAction type="sent">
+               <persName>Doreen Brown</persName>
+               <placeName>Manchester</placeName>
+            </correspAction>
+            <correspAction type="received">
+               <persName>James Mills</persName>
+               <placeName>Stockport</placeName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc n="5">
+            <correspAction type="sent">
+               <persName>James Mills</persName>
+               <placeName>Stockport</placeName>
+               <date when="1942-08-18">August 18th 1942</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Doreen Brown</persName>
+               <placeName>Manchester</placeName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc n="6">
+            <correspAction type="sent">
+               <persName>James Mills</persName>
+               <placeName>Stockport</placeName>
+               <date when="1942-08-24">August 24th 1942</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Doreen Brown</persName>
+               <placeName>Manchester</placeName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc n="7">
+            <correspAction type="sent">
+               <persName>James Mills</persName>
+               <placeName>Stockport</placeName>
+               <date when="1942-08">Thursday, August 1942</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Doreen Brown</persName>
+               <placeName>Manchester</placeName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc n="8">
+            <correspAction type="sent">
+               <persName>Doreen Brown</persName>
+               <placeName>Manchester</placeName>
+               <date when="1942-08-31">Thursday 31st August 1942</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName>James Mills</persName>
+               <placeName>Stockport</placeName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc n="9">
+            <correspAction type="sent">
+               <persName>James Mills</persName>
+               <placeName>Stockport</placeName>
+               <date when="1942-08-31">August 31st 1942</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Doreen Brown</persName>
+               <placeName>Manchester</placeName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc n="10">
+            <correspAction type="sent">
+               <persName>Doreen Brown</persName>
+               <placeName>Manchester</placeName>
+               <date when="1942-09-01">1st September 1942</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName>James Mills</persName>
+               <placeName>Stockport</placeName>
+            </correspAction>
+         </correspDesc>
+         <correspDesc n="11">
+            <correspAction type="sent">
+               <persName>
+                  James Mills
+               </persName>
+               <placeName>Stockport</placeName>
+               <date when="1942-09-02"> Septemeber 2nd 1942</date>
+            </correspAction>
+            <correspAction type="received">
+               <persName>Doreen Brown</persName>
+               <placeName>Manchester</placeName>
             </correspAction>
          </correspDesc>
       </profileDesc>
    </teiHeader>
    <facsimile>
-      <surface xml:id="scan01">
-         <figure>
-            <label>Post-It 01</label>
-            <figDesc> A digital compilation of letters written by Doreen Brown and James Mills in 1942. </figDesc>
-            <graphic xml:id="scan01full" url="/Users/hannahmills/Documents/GitHub/Letters-from-1942-v2/docs/assets/img/documents/Scan01.jpg"/>
-            
-         </figure>
-      </surface>
+            <graphic xml:id="scan01" url="/Users/hannahmills/Documents/GitHub/Letters-from-1942-v2/docs/assets/img/documents/Scan01.jpg"/>
+      <graphic xml:id="scan02" url="/Users/hannahmills/Documents/GitHub/Letters-from-1942-v2/docs/assets/img/documents/Scan02.jpg"/>
+      <graphic xml:id="scan03" url="/Users/hannahmills/Documents/GitHub/Letters-from-1942-v2/docs/assets/img/documents/Scan03.jpg"/>
+      <graphic xml:id="scan04" url="/Users/hannahmills/Documents/GitHub/Letters-from-1942-v2/docs/assets/img/documents/Scan04.jpg"/>
+      <graphic xml:id="scan05" url="/Users/hannahmills/Documents/GitHub/Letters-from-1942-v2/docs/assets/img/documents/Scan05.jpg"/>
+      <graphic xml:id="scan06" url="/Users/hannahmills/Documents/GitHub/Letters-from-1942-v2/docs/assets/img/documents/Scan06.jpg"/>
+      <graphic xml:id="scan07" url="/Users/hannahmills/Documents/GitHub/Letters-from-1942-v2/docs/assets/img/documents/Scan07.jpg"/>
+      <graphic xml:id="scan08" url="/Users/hannahmills/Documents/GitHub/Letters-from-1942-v2/docs/assets/img/documents/Scan08.jpg"/>
+      <graphic xml:id="scan09" url="/Users/hannahmills/Documents/GitHub/Letters-from-1942-v2/docs/assets/img/documents/Scan09.jpg"/>
+      <graphic xml:id="scan10" url="/Users/hannahmills/Documents/GitHub/Letters-from-1942-v2/docs/assets/img/documents/Scan10.jpg"/>
+      <graphic xml:id="scan11" url="/Users/hannahmills/Documents/GitHub/Letters-from-1942-v2/docs/assets/img/documents/Scan11.jpg"/>
+      <graphic xml:id="scan12" url="/Users/hannahmills/Documents/GitHub/Letters-from-1942-v2/docs/assets/img/documents/Scan12.jpg"/>
+      <graphic xml:id="scan13" url="/Users/hannahmills/Documents/GitHub/Letters-from-1942-v2/docs/assets/img/documents/Scan13.jpg"/>
+      <graphic xml:id="scan14" url="/Users/hannahmills/Documents/GitHub/Letters-from-1942-v2/docs/assets/img/documents/Scan14.jpg"/>
+      <graphic xml:id="scan15" url="/Users/hannahmills/Documents/GitHub/Letters-from-1942-v2/docs/assets/img/documents/Scan15.jpg"/>
+      <graphic xml:id="scan16" url="/Users/hannahmills/Documents/GitHub/Letters-from-1942-v2/docs/assets/img/documents/Scan16.jpg"/>
+      <graphic xml:id="scan17" url="/Users/hannahmills/Documents/GitHub/Letters-from-1942-v2/docs/assets/img/documents/Scan17.jpg"/>
+      <graphic xml:id="scan18" url="/Users/hannahmills/Documents/GitHub/Letters-from-1942-v2/docs/assets/img/documents/Scan18.jpg"/>
+      <graphic xml:id="scan19" url="/Users/hannahmills/Documents/GitHub/Letters-from-1942-v2/docs/assets/img/documents/Scan19.jpg"/>
+      <graphic xml:id="scan20" url="/Users/hannahmills/Documents/GitHub/Letters-from-1942-v2/docs/assets/img/documents/Scan20.jpg"/>
+      <graphic xml:id="scan21" url="/Users/hannahmills/Documents/GitHub/Letters-from-1942-v2/docs/assets/img/documents/Scan21.jpg"/>
+      <graphic xml:id="scan22" url="/Users/hannahmills/Documents/GitHub/Letters-from-1942-v2/docs/assets/img/documents/Scan22.jpg"/>
+      <graphic xml:id="scan23" url="/Users/hannahmills/Documents/GitHub/Letters-from-1942-v2/docs/assets/img/documents/Scan23.jpg"/>
+      <graphic xml:id="scan24" url="/Users/hannahmills/Documents/GitHub/Letters-from-1942-v2/docs/assets/img/documents/Scan24.jpg"/>
+      <graphic xml:id="scan25" url="/Users/hannahmills/Documents/GitHub/Letters-from-1942-v2/docs/assets/img/documents/Scan25.jpg"/>
+      <graphic xml:id="scan26" url="/Users/hannahmills/Documents/GitHub/Letters-from-1942-v2/docs/assets/img/documents/Scan26.jpg"/>
+      <graphic xml:id="scan27" url="/Users/hannahmills/Documents/GitHub/Letters-from-1942-v2/docs/assets/img/documents/Scan27.jpg"/>
+      <graphic xml:id="scan28" url="/Users/hannahmills/Documents/GitHub/Letters-from-1942-v2/docs/assets/img/documents/Scan28.jpg"/>
+      <graphic xml:id="scan29" url="/Users/hannahmills/Documents/GitHub/Letters-from-1942-v2/docs/assets/img/documents/Scan29.jpg"/>
+      <graphic xml:id="scan30" url="/Users/hannahmills/Documents/GitHub/Letters-from-1942-v2/docs/assets/img/documents/Scan30.jpg"/>
+      <graphic xml:id="scan31" url="/Users/hannahmills/Documents/GitHub/Letters-from-1942-v2/docs/assets/img/documents/Scan31.jpg"/>
+      <graphic xml:id="scan32" url="/Users/hannahmills/Documents/GitHub/Letters-from-1942-v2/docs/assets/img/documents/Scan32.jpg"/>
+      <graphic xml:id="scan33" url="/Users/hannahmills/Documents/GitHub/Letters-from-1942-v2/docs/assets/img/documents/Scan33.jpg"/>
+      <graphic xml:id="scan34" url="/Users/hannahmills/Documents/GitHub/Letters-from-1942-v2/docs/assets/img/documents/Scan34.jpg"/>
+      <graphic xml:id="scan35" url="/Users/hannahmills/Documents/GitHub/Letters-from-1942-v2/docs/assets/img/documents/Scan35.jpg"/>
+      <graphic xml:id="scan36" url="/Users/hannahmills/Documents/GitHub/Letters-from-1942-v2/docs/assets/img/documents/Scan36.jpg"/>
+      <graphic xml:id="scan37" url="/Users/hannahmills/Documents/GitHub/Letters-from-1942-v2/docs/assets/img/documents/Scan37.jpg"/>
+      <graphic xml:id="scan38" url="/Users/hannahmills/Documents/GitHub/Letters-from-1942-v2/docs/assets/img/documents/Scan38.jpg"/>
+      <graphic xml:id="scan39" url="/Users/hannahmills/Documents/GitHub/Letters-from-1942-v2/docs/assets/img/documents/Scan39.jpg"/>
+      <graphic xml:id="scan40" url="/Users/hannahmills/Documents/GitHub/Letters-from-1942-v2/docs/assets/img/documents/Scan40.jpg"/>
+      <graphic xml:id="scan41" url="/Users/hannahmills/Documents/GitHub/Letters-from-1942-v2/docs/assets/img/documents/Scan41.jpg"/>
+      <graphic xml:id="scan42" url="/Users/hannahmills/Documents/GitHub/Letters-from-1942-v2/docs/assets/img/documents/Scan42.jpg"/>
+      <graphic xml:id="scan43" url="/Users/hannahmills/Documents/GitHub/Letters-from-1942-v2/docs/assets/img/documents/Scan43.jpg"/>
+      <graphic xml:id="scan44" url="/Users/hannahmills/Documents/GitHub/Letters-from-1942-v2/docs/assets/img/documents/Scan44.jpg"/>
+      <graphic xml:id="scan45" url="/Users/hannahmills/Documents/GitHub/Letters-from-1942-v2/docs/assets/img/documents/Scan45.jpg"/>
+      
    </facsimile>
    <text>
 
@@ -244,7 +507,7 @@
             <!-- insert page image -->
 
             <metamark place="top" function="pagenumber">3.</metamark>
-            <p> Perhaps we could have the<lb/> 21st “do”on the <date when="1942-09-12">12th September</date>, if<lb/> this will be
+            <p> Perhaps we could have the<lb/> 21st “do” on the <date when="1942-09-12">12th September</date>, if<lb/> this will be
                convenient to you.<lb/> However, let me know, and then<lb/> we can fix it.<lb/></p>
 
             <p> If ever you are in <placeName>Manchester</placeName><lb/> before then, do not hesitate to go<lb/> into the
