@@ -334,14 +334,11 @@
             <pb facs="#scan01"/>
            
             <fw>
-               <orgName type="preprinted-text" rend="align(top-left) case(uppercase)">>METHODIST
-                  GUILD <lb/>
+               <orgName type="preprinted-text" rend="align(top-left) case(uppercase)">>METHODIST GUILD <lb/>
                   <hi rend="u">HOLIDAYS</hi>.</orgName>
                <lb/>
                <num type="preprinted-text">TELEPHONE DUNOON 234.</num>
-              
                   <location type="preprinted-text" rend="align(top-right) case(uppercase)">
-               
                   <address>
                      <placeName>DHALLING MHOR,</placeName>
                      <addrLine>KIRN,</addrLine>
@@ -352,7 +349,7 @@
             </fw>
             
             <opener>
-               <time rend="align(right)" type="handWrittenText">Saturday <hi rend="u">Evening</hi>.</time>
+               <time rend="align(right)" type="handwritten-text">Saturday <hi rend="u">Evening</hi>.</time>
                <salute rend="align(left)">My Dear <persName>Doreen</persName>,</salute>
             </opener>
 
@@ -377,9 +374,9 @@
             <p>There was a letter here for <persName>Poppy</persName>.<lb/> <persName>Mr. Henderson</persName>and I were re-addressing them
                and it’s<lb/> been sent on to your house; your address was<lb/> the one given in the
                visitors book; remember?<lb/> You will be able to pass it on to <persName>Poppy</persName>.<lb/> You might
-               note <!-- look up note for squiggle --> that the stamp is placed<lb/><pb facs="#scan03"/>
+               note that the stamp is placed<lb/><pb facs="#scan03"/>
                <fw>
-                  <orgName rend="align(top-left) case(uppercase)" type="preprintedText" 
+                  <orgName rend="align(top-left) case(uppercase)" type="preprinted-text" 
                      >>METHODIST GUILD <lb/>
                      <hi rend="u">HOLIDAYS</hi>.</orgName>
                   <lb/>
@@ -457,7 +454,7 @@
          </div>
 
 
-         <div  n=" 2" type="letter" hand="#DB">
+         <div  n="2" type="letter" hand="#DB">
             <pb facs="#scan07"/>
             <opener>
                <address rend="align(top-right)">
@@ -631,7 +628,7 @@
                      >>METHODIST GUILD <lb/>
                      <hi rend="u">HOLIDAYS</hi>.</orgName>
                   <lb/>
-                  <num rend="align(top-left case(uppercase)" type="preprinted-text">TELEPHONE DUNOON 234.</num>
+                  <num rend="align(top-left) case(uppercase)" type="preprinted-text">TELEPHONE DUNOON 234.</num>
                   <location rend="align(top-right) case(uppercase)" type="preprinted-text">
                   
                      <address>
@@ -1016,7 +1013,7 @@
 
             <p>Don’t bother to get your cape yet, as<lb/> Dad says you can have his coupons<lb/>
                <pb facs="#scan33"/>
-               <!-- insert page image here - scan 33 --> and I will try and see whether<lb/> <orgName>Brown
+               and I will try and see whether<lb/> <orgName>Brown
                Bros</orgName>. have any.<lb/></p>
 
             <p>I will call in for the book<lb/> to-morrow.<lb/></p>
