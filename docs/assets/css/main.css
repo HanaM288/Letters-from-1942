@@ -59,6 +59,7 @@ footer {
     .col-sm {
         float: left;
         width: 50%;
+        padding: auto;
     }
 
     .row::after {
