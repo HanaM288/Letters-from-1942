@@ -56,3 +56,6 @@ footer {
 		margin:.15vw;
 	}
 
+.col-md {
+    float: right;
+}
