@@ -20,11 +20,11 @@ nav {
 }
 
 #address1{
-    float: right;
+    float: left;
 }
 
 #address2 {
-    float: left;
+    float: right;
 }
 
 h2 {
