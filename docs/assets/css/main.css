@@ -56,15 +56,6 @@ footer {
 		margin:.15vw;
 	}
 
-    .col-sm {
-       
-        width: 50%;
-        
-    }
-
-    .row::after {
-        content: "";
-        display: table;
-        clear: both;
-
+    .container {
+        column-gap: 100px;
     }
