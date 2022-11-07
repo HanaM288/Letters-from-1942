@@ -1,5 +1,8 @@
 
+.address1 {
+    text-align: left;
+}
 
-.para {
-    padding-top: 50px;
+.address2 {
+    text-align: right;
 }
