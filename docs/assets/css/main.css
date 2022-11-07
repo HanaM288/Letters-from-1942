@@ -19,6 +19,14 @@ nav {
     padding: 1vw;
 }
 
+#address1{
+    float: right;
+}
+
+#address2 {
+    float: left;
+}
+
 h2 {
     padding: 1vw;
 }
