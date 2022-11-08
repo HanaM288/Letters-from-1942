@@ -63,3 +63,10 @@ footer {
         
           }
 
+#address1 {
+    text-align: left;
+}
+
+#address2 {
+    text-align: right;
+}
