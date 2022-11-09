@@ -86,3 +86,17 @@ table, th, td {
 #about {
     text-align: left;
 }
+
+.btn {
+    background-color: rgb(54, 71, 88);
+    border: none;
+    color: white;
+    padding: 12px 30px;
+    cursor: pointer;
+    font-size: 20px;
+  }
+  
+  
+  .btn:hover {
+    background-color: RoyalBlue;
+  }
