@@ -281,57 +281,57 @@
       </profileDesc>
    </teiHeader>
    <facsimile>
-            <graphic xml:id="scan01" url="assets/img/documents/Scan01.jpg"/>
-      <graphic xml:id="scan02" url="assets/img/documents/Scan02.jpg"/>
-      <graphic xml:id="scan03" url="assets/img/documents/Scan03.jpg"/>
-      <graphic xml:id="scan04" url="assets/img/documents/Scan04.jpg"/>
-      <graphic xml:id="scan05" url="assets/img/documents/Scan05.jpg"/>
-      <graphic xml:id="scan06" url="assets/img/documents/Scan06.jpg"/>
-      <graphic xml:id="scan07" url="assets/img/documents/Scan07.jpg"/>
-      <graphic xml:id="scan08" url="assets/img/documents/Scan08.jpg"/>
-      <graphic xml:id="scan09" url="assets/img/documents/Scan09.jpg"/>
-      <graphic xml:id="scan10" url="assets/img/documents/Scan10.jpg"/>
-      <graphic xml:id="scan11" url="assets/img/documents/Scan11.jpg"/>
-      <graphic xml:id="scan12" url="assets/img/documents/Scan12.jpg"/>
-      <graphic xml:id="scan13" url="assets/img/documents/Scan13.jpg"/>
-      <graphic xml:id="scan14" url="assets/img/documents/Scan14.jpg"/>
-      <graphic xml:id="scan15" url="assets/img/documents/Scan15.jpg"/>
-      <graphic xml:id="scan16" url="assets/img/documents/Scan16.jpg"/>
-      <graphic xml:id="scan17" url="assets/img/documents/Scan17.jpg"/>
-      <graphic xml:id="scan18" url="assets/img/documents/Scan18.jpg"/>
-      <graphic xml:id="scan19" url="assets/img/documents/Scan19.jpg"/>
-      <graphic xml:id="scan20" url="assets/img/documents/Scan20.jpg"/>
-      <graphic xml:id="scan21" url="assets/img/documents/Scan21.jpg"/>
-      <graphic xml:id="scan22" url="assets/img/documents/Scan22.jpg"/>
-      <graphic xml:id="scan23" url="assets/img/documents/Scan23.jpg"/>
-      <graphic xml:id="scan24" url="assets/img/documents/Scan24.jpg"/>
-      <graphic xml:id="scan25" url="assets/img/documents/Scan25.jpg"/>
-      <graphic xml:id="scan26" url="assets/img/documents/Scan26.jpg"/>
-      <graphic xml:id="scan27" url="assets/img/documents/Scan27.jpg"/>
-      <graphic xml:id="scan28" url="assets/img/documents/Scan28.jpg"/>
-      <graphic xml:id="scan29" url="assets/img/documents/Scan29.jpg"/>
-      <graphic xml:id="scan30" url="assets/img/documents/Scan30.jpg"/>
-      <graphic xml:id="scan31" url="assets/img/documents/Scan31.jpg"/>
-      <graphic xml:id="scan32" url="assets/img/documents/Scan32.jpg"/>
-      <graphic xml:id="scan33" url="assets/img/documents/Scan33.jpg"/>
-      <graphic xml:id="scan34" url="assets/img/documents/Scan34.jpg"/>
-      <graphic xml:id="scan35" url="assets/img/documents/Scan35.jpg"/>
-      <graphic xml:id="scan36" url="assets/img/documents/Scan36.jpg"/>
-      <graphic xml:id="scan37" url="assets/img/documents/Scan37.jpg"/>
-      <graphic xml:id="scan38" url="assets/img/documents/Scan38.jpg"/>
-      <graphic xml:id="scan39" url="assets/img/documents/Scan39.jpg"/>
-      <graphic xml:id="scan40" url="assets/img/documents/Scan40.jpg"/>
-      <graphic xml:id="scan41" url="assets/img/documents/Scan41.jpg"/>
-      <graphic xml:id="scan42" url="assets/img/documents/Scan42.jpg"/>
-      <graphic xml:id="scan43" url="assets/img/documents/Scan43.jpg"/>
-      <graphic xml:id="scan44" url="assets/img/documents/Scan44.jpg"/>
-      <graphic xml:id="scan45" url="assets/img/documents/Scan45.jpg"/> 
+            <graphic xml:id="Let01a" url="assets/img/documents/Let01a.jpg"/>
+      <graphic xml:id="Let01b" url="assets/img/documents/Let01b.jpg"/>
+      <graphic xml:id="Let01c" url="assets/img/documents/Let01c.jpg"/>
+      <graphic xml:id="Let01d" url="assets/img/documents/Let01d.jpg"/>
+      <graphic xml:id="Let02a" url="assets/img/documents/Let02a.jpg"/>
+      <graphic xml:id="Let02b" url="assets/img/documents/Let02b.jpg"/>
+      <graphic xml:id="Let02c" url="assets/img/documents/Let02c.jpg"/>
+      <graphic xml:id="Let02d" url="assets/img/documents/Let02d.jpg"/>
+      <graphic xml:id="Let02e" url="assets/img/documents/Let02e.jpg"/>
+      <graphic xml:id="Let02f" url="assets/img/documents/Let02f.jpg"/>
+      <graphic xml:id="Let03a" url="assets/img/documents/Let03a.jpg"/>
+      <graphic xml:id="Let03b" url="assets/img/documents/Let03b.jpg"/>
+      <graphic xml:id="Let03c" url="assets/img/documents/Let03c.jpg"/>
+      <graphic xml:id="Let03d" url="assets/img/documents/Let03d.jpg"/>
+      <graphic xml:id="Let03e" url="assets/img/documents/Let03e.jpg"/>
+      <graphic xml:id="Let03f" url="assets/img/documents/Let03f.jpg"/>
+      <graphic xml:id="Let04a" url="assets/img/documents/Let04a.jpg"/>
+      <graphic xml:id="Let04b" url="assets/img/documents/Let04b.jpg"/>
+      <graphic xml:id="Let04c" url="assets/img/documents/Let04c.jpg"/>
+      <graphic xml:id="Let04d" url="assets/img/documents/Let04d.jpg"/>
+      <graphic xml:id="Let04e" url="assets/img/documents/Let04e.jpg"/>
+      <graphic xml:id="Let04f" url="assets/img/documents/Let04f.jpg"/>
+      <graphic xml:id="Let05a" url="assets/img/documents/Let05a.jpg"/>
+      <graphic xml:id="Let05b" url="assets/img/documents/Let05b.jpg"/>
+      <graphic xml:id="Let05c" url="assets/img/documents/Let05c.jpg"/>
+      <graphic xml:id="Let06a" url="assets/img/documents/Let06a.jpg"/>
+      <graphic xml:id="Let06b" url="assets/img/documents/Let06b.jpg"/>
+      <graphic xml:id="Let07a" url="assets/img/documents/Let07a.jpg"/>
+      <graphic xml:id="Let07b" url="assets/img/documents/Let07b.jpg"/>
+      <graphic xml:id="Let08a" url="assets/img/documents/Let08a.jpg"/>
+      <graphic xml:id="Let08b" url="assets/img/documents/Let08b.jpg"/>
+      <graphic xml:id="Let08c" url="assets/img/documents/Let08c.jpg"/>
+      <graphic xml:id="Let08d" url="assets/img/documents/Let08d.jpg"/>
+      <graphic xml:id="Let09a" url="assets/img/documents/Let09a.jpg"/>
+      <graphic xml:id="Let09b" url="assets/img/documents/Let09b.jpg"/>
+      <graphic xml:id="Let10a" url="assets/img/documents/Let10a.jpg"/>
+      <graphic xml:id="Let10b" url="assets/img/documents/Let10b.jpg"/>
+      <graphic xml:id="Let10c" url="assets/img/documents/Let10c.jpg"/>
+      <graphic xml:id="Let10d" url="assets/img/documents/Let10d.jpg"/>
+      <graphic xml:id="Let10e" url="assets/img/documents/Let10e.jpg"/>
+      <graphic xml:id="Let10f" url="assets/img/documents/Let10f.jpg"/>
+      <graphic xml:id="Let11a" url="assets/img/documents/Let11a.jpg"/>
+      <graphic xml:id="Let11b" url="assets/img/documents/Let11b.jpg"/>
+      <graphic xml:id="Let11c" url="assets/img/documents/Let11c.jpg"/>
+      <graphic xml:id="Let11d" url="assets/img/documents/Let11d.jpg"/> 
    </facsimile>
    
    <text>
       <body>
          <div n="1" type="letter" hand="#JM" >
-            <pb facs="#scan01"/>
+            <pb facs="#Let01a"/>
            
             <fw>
                <orgName type="preprinted-text" rend="align(top-left) case(uppercase)">>METHODIST GUILD <lb/>
@@ -362,7 +362,7 @@
                railway journey and I kept saying to myself, “They<lb/> will have reached <placeName>Glasgow</placeName>
                now; they will be on the<lb/> <choice><abbr>M/C</abbr><expan>Manchester</expan></choice>train now.”</p>
             <p> I can’t say how much I’ve missed<lb/> you today. I’ve wondered round a bit on my own,<lb/>
-               <pb facs="#scan02"/> and played cards a bit with the
+               <pb facs="#Let01b"/> and played cards a bit with the
                older generation,<lb/> and slept a bit. <persName>Harry</persName> and <persName>Ellie</persName>, <persName>Jack</persName> and<lb/> <persName>Jean</persName> wanted me
                to go to the pictures with<lb/> them but as they were going to see <title
                      type="film">Gert and<lb/> Daisy</title> I declined the invitation.</p>
@@ -374,7 +374,7 @@
             <p>There was a letter here for <persName>Poppy</persName>.<lb/> <persName>Mr. Henderson</persName>and I were re-addressing them
                and it’s<lb/> been sent on to your house; your address was<lb/> the one given in the
                visitors book; remember?<lb/> You will be able to pass it on to <persName>Poppy</persName>.<lb/> You might
-               note that the stamp is placed<lb/><pb facs="#scan03"/>
+               note that the stamp is placed<lb/><pb facs="#Let01c"/>
                <fw>
                   <orgName rend="align(top-left) case(uppercase)" type="preprinted-text" 
                      >>METHODIST GUILD <lb/>
@@ -404,7 +404,7 @@
                Lecture at the mission so please <sic>stear</sic><lb/> clear of that date, won’t you?
                I shall<lb/> count the days to Sept. with keen anticipation.<lb/> Don’t do too much
                work next week if you<lb/> don’t feel like it; I’ll give you permission to<lb/>
-               <pb facs="#scan04"/>
+               <pb facs="#Let01d"/>
                slack but don’t let the boss see you. Think<lb/> of
                me on the hills (that’s where I shan’t<lb/> be if it keeps raining).<lb/>
             </p>
@@ -424,7 +424,7 @@
          </div>
 
 
-         <pb facs="#scan05"/>
+         <pb facs="#Let02a"/>
          <div n="1" type="envelope">
             
            
@@ -446,7 +446,7 @@
                   <addrLine rend="case(uppercase)">SCOTLAND</addrLine>
                </address>
             </p>
-            <pb facs="scan06"/>
+            <pb facs="Let02b"/>
            
             <p>XXXXXXXXXXXXXXX<lb/>XXXXXXXXXXX<lb/>XXXXXXXXXXXXXXX</p>
             <metamark place="centre" function="seal"><note>a red wax seal</note></metamark>
@@ -455,7 +455,7 @@
 
 
          <div  n="2" type="letter" hand="#DB">
-            <pb facs="#scan07"/>
+            <pb facs="#Let02c"/>
             <opener>
                <address rend="align(top-right)">
                  
@@ -476,7 +476,7 @@
             <p> I have been into the office,<lb/> and have now got settled down<lb/> somewhat, but
                all the same,<lb/> I can’t help wishing I was<lb/> back at <placeName>Dhalling Mhor</placeName>!<lb/>
             </p>
-            <pb facs="#scan08"/>
+            <pb facs="#Let02d"/>
            
 
             <metamark place="top" function="pagenumber">2.</metamark>
@@ -496,7 +496,7 @@
             <p>Enclosed you will find my <measure type="currency">£ 3.</measure>,<lb/> as I cannot spend them here<lb/> without losing
                on them (I have<lb/> cultivated the Scotch habit, haven’t I?)<lb/>
             </p>
-            <pb facs="#scan09"/>
+            <pb facs="#Let02e"/>
            
 
             <metamark place="top" function="pagenumber">3.</metamark>
@@ -510,7 +510,7 @@
             <p> I have been looking at the<lb/> photograph of <placeName>Swanwick</placeName> - 1939 -<lb/> and notice both
                you and Dad<lb/> on it, so, no doubt, you<lb/> will recognise him when<lb/> you see
                him.<lb/></p>
-            <pb facs="#scan10"/>
+            <pb facs="#Let02f"/>
            
 
             <metamark place="top" function="pagenumber">4.</metamark>
@@ -532,7 +532,7 @@
 
 
          <div  n="3" type="letter" hand="#JM">
-            <pb facs="#scan11"/>
+            <pb facs="#Let03a"/>
            
            
 
@@ -566,7 +566,7 @@
                don’t say that I should return them but<lb/> I am presuming I should. <lb/></p>
 
             <p>This week has been much<lb/> different from last in many ways. First and<lb/>
-               <pb facs="#scan12"/>
+               <pb facs="#Let03b"/>
                foremost - you are not here; then the weather
                <lb/>has been awfully bad until today; these<lb/> things have tended to make me a bit
                fed<lb/> up. We have not been able to get out<lb/> much and you will realise that
@@ -579,7 +579,7 @@
             <p>On Monday we did <placeName>Rothesay</placeName> again.<lb/> The sail was most exhilarating. <name type="river">The Clyde</name><lb/>
                was <q>‘choppy’</q> and the boat tossed quite a<lb/> bit and took showers over the bow.
                There<lb/> were some heavy showers of rain, too, but<lb/>
-               <pb facs="#scan13"/>
+               <pb facs="#Let03c"/>
                <fw>
                   <orgName rend="align(top-left) case(uppercase)" type="preprinted-text"
                      >>METHODIST GUILD <lb/>
@@ -608,7 +608,7 @@
 
             <p>On Tuesday, in the rain, a few of<lb/> us went to <placeName>Killcraigon</placeName> and walked about<lb/>
                five or six miles to <placeName>Loch Long</placeName>. The concert <lb/>in the evening was not bad but was
-               not<lb/> so good as last week’s. Wednesday was<lb/><pb facs="#scan14"
+               not<lb/> so good as last week’s. Wednesday was<lb/><pb facs="#Let03d"
                />rather a miserable day. We had showers<lb/> throughout
                the day and after playing bowls in<lb/> the tournament I had an hour and a<lb/> half
                lying on my bed. In the evening<lb/> nearly everybody went to the Cosy Corner so<lb/>
@@ -621,7 +621,7 @@
                side of<lb/> the Loch to <placeName>Whistlefield</placeName> where we had lunch<lb/> and then over the hills
                to <placeName>Ardentinny</placeName>. The<lb/> scenery beggars description; it is absolutely<lb/> exquisite
                - the strong, silent hills contrasted<lb/> beautifully with the wooded, flowery
-               valleys;<lb/> and from time to time one caught a glimpse<lb/><pb facs="#scan15"/>
+               valleys;<lb/> and from time to time one caught a glimpse<lb/><pb facs="#Let03e"/>
                
                <fw>
                   <orgName rend="align(top-left) case(uppercase)" type="preprinted-text">
@@ -649,7 +649,7 @@
                its<lb/> being taken although I had forgotten about<lb/> it and it’s very likely that
                I should<lb/> recognise your Dad. I must have a look<lb/> at it when I come to the
                ‘do’ next month.<lb/> The <date when="1942-09-12">12th </date>will be quite all right for me<lb/> and I shall look
-               forward to seeing<lb/> you and your parents then. It would<lb/><pb facs="#scan16"
+               forward to seeing<lb/> you and your parents then. It would<lb/><pb facs="#Let03f"
                />be jolly nice to see you before then and<lb/>
                if you have a Saturday afternoon free in<lb/> a fortnight’s time maybe you’ll let
                me<lb/> know and we could fix a re-union in<lb/> the City somewhere.<lb/></p>
@@ -668,7 +668,7 @@
          </div>
 
          <div n="2" type="envelope" >
-            <pb facs="#scan17"/>
+            <pb facs="#Let04a"/>
             
             <metamark place="top-left"><hi rend="u">2.</hi></metamark>
             <metamark place="top-right">
@@ -688,14 +688,14 @@
 
                </address>
             </p>
-            <pb facs="#scan18"/>
+            <pb facs="#Let04b"/>
             <p>XXXXXXXXXXXXXXX<lb/>XXXXXXXXXXX<lb/>XXXXXXXXXXXXXXX</p>
 
          </div>
 
 
          <div n="4" type="letter" hand="#DB">
-            <pb facs="#scan19"/>
+            <pb facs="#Let04c"/>
             
            
             <opener>
@@ -718,7 +718,7 @@
             <p>It was good of you to spare<lb/> a few minutes to write to me<lb/> on Sunday, as I
                know how <lb/>busy you must have been,<lb/> and I do appreciate it <persName>Jim</persName>.<lb/> It is
               <persName> Morris’</persName> last Sunday next<lb/> week.<lb/></p>
-            <pb facs="#scan20"/>
+            <pb facs="#Let04d"/>
          
             <metamark place="top-left" function="pagenumber">2.</metamark>
             <p>Our new minister, who is coming<lb/> in <date when="1942-09">September</date>, the one
@@ -732,7 +732,7 @@
             <p>On Wednesday, I am going<lb/> with the <name>Platt Lane League</name><lb/> to <placeName>Hartley College</placeName>,
                where some<lb/> of them are playing in a <lb/>tennis tournament. Needless<lb/> to
                say, I am not playing tennis.<lb/></p>
-            <pb facs="#scan21"/>
+            <pb facs="#Let04e"/>
             
             <metamark place="top-left" function="pagenumber">3.</metamark>
 
@@ -747,7 +747,7 @@
 
             <p>Perhaps you would like me<lb/> to show you where <name type="church">Platt Church</name><lb/> is, as it would be
                a nice walk &amp;<lb/>
-               <pb facs="#scan22"/>
+               <pb facs="#Let04f"/>
                a friend of mine - <persName>Daisy<lb/> Harding</persName> - from
                church, has<lb/> gone to <placeName>Dhalling Mhor</placeName> for this<lb/> week, so I suppose she will
                <lb/>have a great time if the<lb/> weather improves. She has<lb/> joined up in the
@@ -767,7 +767,7 @@
          </div>
 
          <div n="5" type="letter" hand="#JM">
-            <pb facs="#scan23"/>
+            <pb facs="#Let05a"/>
             
            
             <opener>
@@ -795,7 +795,7 @@
                evening on Sunday I was disconcerted<lb/> to find <persName>W. C.
                Jackson</persName>, who, as you know, is an ex-president<lb/> of the Conference and very able
                preacher, in the congregation<lb/>
-               <pb facs="#scan24"/>
+               <pb facs="#Let05b"/>
                at <placeName>Bramhall</placeName> and I was rather <q>‘nervy’</q> as I took
                the<lb/> service. However, God blessed us and we had a great time.<lb/> I spent an
                hour with<persName> Mr. &amp; Mrs. Harold Darly</persName> on Sunday<lb/> evening poring over a map of
@@ -815,7 +815,7 @@
 
 
             <p>I shall have to leave this letter now as I<lb/>
-               <pb facs="#scan25"/>have an appointment at <time when="14:30:00">2-30</time> and
+               <pb facs="#Let05c"/>have an appointment at <time when="14:30:00">2-30</time> and
                it’s already <time when="14:30:00">2.20</time>. So<lb/> until Saturday every good wish. My thoughts are
                always<lb/> with you, <persName>Doreen</persName>,<lb/></p>
 
@@ -844,7 +844,7 @@
          </div>
 
          <div n="6" type="letter" hand="#JM">
-            <pb facs="#scan26"/>
+            <pb facs="#Let06a"/>
            
            
             <opener>
@@ -874,7 +874,7 @@
                corner”</quote>, I snapped, <quote>“what time will<lb/> there be an eighty bus?”</quote> Who he was I don’t
                know<lb/> because he moved away very soon after without much more
                conversation.<lb/></p>
-            <pb facs="#scan27"/>
+            <pb facs="#Let06b"/>
             
 
             <p>On reaching town I found that the last bus had<lb/> gone and so made my way to <placeName type="station">London
@@ -904,7 +904,7 @@
          </div>
 
          <div n="7" type="letter" hand="#JM">
-            <pb facs="#scan28"/>
+            <pb facs="#Let07a"/>
             
             
             <opener>
@@ -936,7 +936,7 @@
                But I shouldn’t like to think that<lb/> I was moving a good distance away from this
                district. You and<lb/> I, <persName>Doreen</persName>, are fortunate; we might have lived miles away from
                each<lb/> other.<lb/></p>
-            <pb facs="#scan29"/>
+            <pb facs="#Let07b"/>
            
 
             <p><persName>The Hardings</persName> seem delightful people. They are generous<lb/> with Sir Walter Scott. I
@@ -961,7 +961,7 @@
          </div>
 
          <div  n="3" type="envelope">
-            <pb facs="#scan30"/>
+            <pb facs="#Let08a"/>
             
             <metamark place="top-left">4</metamark>
             <metamark place="top-right">
@@ -981,7 +981,7 @@
 
                </address>
             </p>
-            <pb facs="#scan31"/>
+            <pb facs="#Let08b"/>
            
 
 
@@ -989,7 +989,7 @@
 
 
          <div n="8" type="letter" hand="#DB">
-            <pb facs="#scan32"/>
+            <pb facs="#Let08c"/>
             
             
             <opener>
@@ -1012,7 +1012,7 @@
                home about <time when="22:30:00">10-30</time>.<lb/></p>
 
             <p>Don’t bother to get your cape yet, as<lb/> Dad says you can have his coupons<lb/>
-               <pb facs="#scan33"/>
+               <pb facs="#Let08d"/>
                and I will try and see whether<lb/> <orgName>Brown
                Bros</orgName>. have any.<lb/></p>
 
@@ -1027,7 +1027,7 @@
          </div>
 
          <div n="9" type="letter" hand="#JM">
-            <pb facs="#scan34"/>
+            <pb facs="#Let09a"/>
            
             
             <opener>
@@ -1056,7 +1056,7 @@
                sincere. That is why I am<lb/> expressing it to you first on paper. It is not
                always<lb/> easy for one to say in words what one feels in one’s<lb/> heart and
                although I intended saying this into your ear<lb/>
-               <pb facs="#scan35"/>yet the right psychological
+               <pb facs="#Let09b"/>yet the right psychological
                moment didn’t seem to present itself.<lb/> But I wanted you to know what I felt in my
                heart<lb/> before we see each other again; I could not wait for next<lb/>
                Saturday.<lb/></p>
@@ -1082,7 +1082,7 @@
          </div>
 
          <div n="4" type="envelope" >
-            <pb facs="#scan36"/>
+            <pb facs="#Let10a"/>
            
             <metamark place="top-left"><hi rend="u">5</hi></metamark>
             <metamark place="top-right">
@@ -1102,14 +1102,14 @@
 
                </address>
             </p>
-            <pb facs="#scan37"/>
+            <pb facs="#Let10b"/>
           
 
 
          </div>
 
          <div n="10" type="letter" hand="#DB">
-            <pb facs="#scan38"/>
+            <pb facs="#Let10c"/>
             
             <opener>
                <address rend="align(top-right)">
@@ -1128,7 +1128,7 @@
               <persName> Jim</persName>,<lb/> and I am so delighted to know<lb/> that you feel the same towards me.<lb/>
                I am always thinking about you,<lb/> and I am so proud to think<lb/> you are doing
                such a great<lb/> work, which is the greatest<lb/> thing in life. <lb/></p>
-            <pb facs="#scan39"/>
+            <pb facs="#Let10d"/>
          
             <metamark function="pagenumber">2.</metamark>
 
@@ -1142,7 +1142,7 @@
 
             <p> It seems so strange that we<lb/> should live so near, and yet<lb/> have to meet so
                far away as <lb/> <placeName type="country">Scotland</placeName>, but I am sure there<lb/>
-               <pb facs="#scan40"/>
+               <pb facs="#Let10e"/>
                <metamark function="pagenumber">3.</metamark> 
                must be some divine purpose<lb/> behind
                it all. <lb/></p>
@@ -1158,7 +1158,7 @@
             <p>I am so much looking forward<lb/> to seeing you on Saturday.<lb/></p>
 
             <p> By the way, if you have any<lb/> good ideas as to how we<lb/>
-               <pb facs="#scan41"/>
+               <pb facs="#Let10f"/>
                <metamark function="pagenumber">4. </metamark> 
                can entertain our guests the<lb/>
                following Saturday please let<lb/> me know, as I am trying to<lb/> plan my
@@ -1176,7 +1176,7 @@
          </div>
 
          <div n="11" type="letter" hand="#JM">
-            <pb facs="#scan42"/>
+            <pb facs="#Let11a"/>
          
             
             <opener>
@@ -1206,7 +1206,7 @@
             <p>Just before going to <placeName>Dhalling Mhor</placeName> my work was<lb/> getting on top of me; I had
                worked hard and I was tired; but<lb/> I was rather unhappy, too. I can’t explain it
                properly but<lb/>
-               <pb facs="#scan43"/>it seemed as though I were
+               <pb facs="#Let11b"/>it seemed as though I were
                struggling alone. People so often<lb/> didn’t understand; they let me down badly on
                occasion. All<lb/> that is altered now. I shall always think <placeName>Dhalling Mhor</placeName><lb/> a
                blessed spot and I shall always remember the first<lb/> Sunday morning at breakfast
@@ -1225,7 +1225,7 @@
                two<lb/> folks read from behind a screen or curtain. I’ve done it once<lb/> and we
                found it very good. I’ll get hold of the<lb/> book for Saturday and then you can see
                it. I might<lb/> sing - then again, I might not - <q>“If you want a bit o’Lancashire<lb/>
-               <pb facs="#scan44"/>we know where it is”</q>. Joking
+               <pb facs="#Let11c"/>we know where it is”</q>. Joking
                aside; I’ll ransack my<lb/> brains and try and dig up some other ideas. What about
                a<lb/> beetle drive? I’ll bring my papers and dice if you decide on<lb/> it. Beetle
                always makes good entertainment. <lb/></p>
@@ -1245,7 +1245,7 @@
                having fellowship with the ministers of the staff; and<lb/> I know you love it, too.
                On Friday we have a staff<lb/> meeting at five; tea at six; and a stewards’
                meeting<lb/> after tea. The circuit stewards are always welcomed into the<lb/>
-               <pb facs="#scan45"/>staff meeting for a moment when
+               <pb facs="#Let11d"/>staff meeting for a moment when
                they hand out little<lb/> envelopes containing quarterly cheques. <orgName>Methodism</orgName> is
                wonderful<lb/> and I am very proud to be able to serve her as a<lb/> minister. There
                can be nothing higher in life. <lb/></p>
