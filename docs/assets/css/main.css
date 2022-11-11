@@ -88,12 +88,13 @@ table, th, td {
 }
 
 .btn {
-    background-color: rgb(54, 71, 88);
+    background-color: rgb(145, 157, 170);
     border: none;
     color: white;
-    padding: 12px 30px;
     cursor: pointer;
-    font-size: 20px;
+    font-size: 10px;
+    height: 35px;
+    width: 70px;
   }
   
   
