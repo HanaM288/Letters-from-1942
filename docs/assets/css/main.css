@@ -103,5 +103,9 @@ table, th, td {
   }
 
   #gallery {
-      text-align: ;
+      text-align: center ;
+  }
+
+  #home {
+      font: size 2.5em;
   }
