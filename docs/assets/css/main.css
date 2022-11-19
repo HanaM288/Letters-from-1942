@@ -115,3 +115,7 @@ table, th, td {
     width: 800px;
 
   }
+
+  ul {
+      line-height: 3;
+  }
