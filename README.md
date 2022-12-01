@@ -1,14 +1,7 @@
-# DCHMI-template
+# Yours very sincerely, ... A Digital Compilation of Letters from 1942
 
-This is a template that was specifically designed to help students of the Digitising Cultural Heritage Materials (DCHM) course at the University of Borås publish their digitisation projects online with GitHub Pages. 
-But it can be used by anyone who wants to try GitHub Pages to publishing a simple HTML-based website.
+This is a digitisation project that has been carried out as part of the Digitising Culture Heritage Materials course at the University of Borås. We were tasked with carrying out a digitisation project through all stages from material selection and planning to publication. The collection comprises 11 letters written in August and September 1942 between two young people in their twenties in England during World War II. The 11 letters chosen for this project are a sample of a much bigger collection of letters and sermons. The letters span from 1942 until the early 1950s after the end of the war. The collection gives in an insight into communication in daily life in a pre-digital era during a pivotal time in world history.
 
-🚀[Visit the Website](https://woutdln.github.io/DCHM-template/) if you want to see what the published version of this repository looks like.
 
-An example of what the template can turn into can be found in Wout's [DIY-frankensTEIn](https://woutdln.github.io/DIY-frankensTEIn/index.html) repository.
-For more information on the template and how to get started yourself, please refer to [the repository's wiki](https://github.com/WoutDLN/DCHM-template/wiki).  
+🚀[Visit the Website](https://hanam288.github.io/Letters-from-1942-v2/about.html) if you want to see what the published version of this repository looks like.
 
-## About the Developer
-This repository was originally developed by [Wout Dillen](https://github.com/WoutDLN) as a teaching tool in the Digitising Cultural Heritage Materials course at the [University of Borås](https://www.hb.se/), where he currently works as a Senior Lecturer in Library and Information Science. 
-He is also the Secretary of the [European Society of Textual Scholarship (ESTS)](https://textualscholarship.eu/), and part of the Executive Board of the [DH Benelux community](https://dhbenelux.org/). 
-He is also the General editor of the ESTS's journal [_Variants_](https://journals.openedition.org/variants/), and one of the editors of the [_DH Benelux Journal_](https://journal.dhbenelux.org/) – both Open Access publications.  
